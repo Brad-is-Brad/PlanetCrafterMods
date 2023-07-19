@@ -145,7 +145,7 @@ namespace PlanetCrafterDroneShow
             }
 
             // add formation to prevent collision phasing
-            curFormation = new DroneShowFormation(++droneShowActionId, 0.5f);
+            curFormation = new DroneShowFormation(++droneShowActionId, 1f);
 
             int lineCount = 0;
             List<DronePosition> collisionFixPositions = new List<DronePosition>();
@@ -164,7 +164,11 @@ namespace PlanetCrafterDroneShow
                 }
             }
 
-            curFormation.AddLine(collisionFixPositions);
+            if (lineCount > 0)
+            {
+                curFormation.AddLine(collisionFixPositions);
+            }
+            
             curFormation.Prepare();
             droneShowActions.Insert(0, curFormation);
 
