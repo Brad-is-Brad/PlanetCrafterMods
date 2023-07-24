@@ -1,0 +1,3656 @@
+# Colors
+
+Color R 1 0 0
+Color O 1 0.5 0
+Color Y 1 1 0
+Color G 0 1 0
+Color B 0 0.2 1
+Color V 0.5 0 1
+Color L 0 0 0
+Color W 1 1 1
+
+# Base Lake
+
+ShowCenter 700,85,600 0 0
+TeleportPlayer 732,80,613 0 0
+Hold 2
+
+# Brad
+
+FormationTime 0.5
+LLLL   LLLL    LLL   LLLL
+L   L  L   L  L   L  L   L
+LLLL   LLLL   LLLLL  L   L
+L   L  L   L  L   L  L   L
+LLLL   L   L  L   L  LLLL
+
+
+
+
+
+
+
+
+
+
+
+
+EndFormation
+Hold 1.25
+
+# Brad is
+
+FormationTime 0.5
+LLLL   LLLL    LLL   LLLL
+L   L  L   L  L   L  L   L
+LLLL   LLLL   LLLLL  L   L
+L   L  L   L  L   L  L   L
+LLLL   L   L  L   L  LLLL
+
+       LLLLL   LLLL
+         L    L
+         L     LLL
+         L        L
+       LLLLL  LLLL
+
+
+
+
+
+
+EndFormation
+Hold 1.25
+
+# Brad is Brad
+
+FormationTime 0.5
+LLLL   LLLL    LLL   LLLL
+L   L  L   L  L   L  L   L
+LLLL   LLLL   LLLLL  L   L
+L   L  L   L  L   L  L   L
+LLLL   L   L  L   L  LLLL
+
+       LLLLL   LLLL
+         L    L
+         L     LLL
+         L        L
+       LLLLL  LLLL
+
+LLLL   LLLL    LLL   LLLL
+L   L  L   L  L   L  L   L
+LLLL   LLLL   LLLLL  L   L
+L   L  L   L  L   L  L   L
+LLLL   L   L  L   L  LLLL
+EndFormation
+Hold 1.5
+
+# Light up
+
+FormationTime 0.5
+BBBB   BBBB    BBB   BBBB
+B   B  B   B  B   B  B   B
+BBBB   BBBB   BBBBB  B   B
+B   B  B   B  B   B  B   B
+BBBB   B   B  B   B  BBBB
+
+       WWWWW   WWWW
+         W    W
+         W     WWW
+         W        W
+       WWWWW  WWWW
+
+VVVV   VVVV    VVV   VVVV
+V   V  V   V  V   V  V   V
+VVVV   VVVV   VVVVV  V   V
+V   V  V   V  V   V  V   V
+VVVV   V   V  V   V  VVVV
+EndFormation
+Hold 1
+
+# explode
+FormationTime 0.5
+L L L L L L L L L L L L L L L L L L L L L L L L L L L L L L L L L L L L L L L L
+
+L                                                                             L
+
+L                                                                             L
+
+L                                                                             L
+
+L                                                                             L
+
+L                                                                             L
+
+L                                                                             L
+
+L                                                                             L
+
+L                                                                             L
+
+L                                                                             L
+
+L                                                                             L
+
+L                                                                             L
+
+L                                                                             L
+
+L                                                                             L
+
+L                                                                             L
+
+L                                                                             L
+
+L                                                                             L
+
+L                                                                             L
+
+L                                                                             L
+
+L                                                                             L
+
+L                                                                             L
+
+L                                                                             L
+
+L                                                                             L
+
+L                                                                             L
+
+L                                                                             L
+
+L                                                                             L
+
+L                                                                             L
+
+L                                                                             L
+
+L                                                                             L
+
+L                                                                             L
+
+L                                                                             L
+
+L                                                                             L
+
+L                                                                             L
+
+L                                                                             L
+
+L                                                                             L
+
+L                                                                             L
+
+L                                                                             L
+
+L                                                                             L
+
+L                                                                             L
+
+L L L L L L L L L L L L L L L L L L L L L L L L L L L L L L L L L L L L L L L L
+EndFormation
+Hold 1.25
+
+# drones start to appear
+
+FormationTime 0.5
+   RRR    RRR
+  R   R  R   R
+ R     RR     R
+R              R
+R              R
+R              R
+R              R
+ R            R
+ R            R
+  R          R
+   R        R
+    R      R
+     R    R
+      R  R
+       RR
+EndFormation
+Hold 1.25
+
+FormationTime 1
+      YYYYYYY
+    YY       YY
+   Y           Y
+  Y             Y
+ Y               Y
+ Y  WWW     WWW  Y
+Y  W   W   W   W  Y
+Y  W W W   W W W  Y
+Y  W   W   W   W  Y
+Y   WWW     WWW   Y
+Y                 Y
+Y WWW         WWW Y
+Y  WWWW     WWWW  Y
+ Y  WWWWWWWWWWW  Y
+ Y     WWWWW     Y
+  Y             Y
+   Y           Y
+    YY       YY
+      YYYYYYY
+EndFormation
+Hold 1.25
+
+FormationTime 0
+      YYYYYYY
+    YY       YY
+   Y           Y
+  Y             Y
+ Y               Y
+ Y          WWW  Y
+Y   WWW    W   W  Y
+Y  W   W   W W W  Y
+Y          W   W  Y
+Y           WWW   Y
+Y                 Y
+Y WWW         WWW Y
+Y  WWWWRRRRRWWWW  Y
+ Y  WWWRRRRRWWW  Y
+ Y     RRRRR     Y
+  Y     RRR     Y
+   Y           Y
+    YY       YY
+      YYYYYYY
+EndFormation
+Hold 1.25
+
+FormationTime 0.5
+      RR RR
+  GG R  R  R GG
+ GGGR       RGGG
+ GGGR       RGGG
+  RRR       RRR
+ R   R     R   R
+R     R   R     R
+R      RYR      R
+ R     YYY     R
+R      RYR      R
+R     R   R     R
+ R   R     R   R
+  RRR       RRR
+ GGGR       RGGG
+ GGGR       RGGG
+  GG R  R  R GG
+      RR RR
+EndFormation
+Hold 1
+
+Rotate Z 360 2.75
+Hold 1
+
+FormationTime 1
+             GGGG
+     GGG    G    G
+    G   G   G     GG
+    G    G G        GG
+   G      GG          G
+  G       GG          G
+ G         G          G
+G          G          G
+G          G         G
+G           G       G
+G           G     GGGGG
+ G              GG     G
+  GGGGGGGG     G        G
+    G                   G
+   G                    G
+  G                     G
+ G           G         G
+ G         G G        G
+  G        G GG       G
+   GG      G G G     G
+     G     G G  G   G
+      G   GG  G  GGG
+       GGG G  G
+            G  G
+            G   G
+             GGGG
+EndFormation
+Hold 1.25
+
+Rotate Y -360 2
+Hold 1
+
+FormationTime 1
+L
+EndFormation
+Hold 1
+
+# Purple Orange Haze
+ShowCenter 649,90,-127 0 0
+TeleportPlayer 620,80,-131 0 0
+
+FormationTime 1
+R
+EndFormation
+Hold 0.2
+
+FormationTime 0
+ R
+R R
+ R
+EndFormation
+Hold 0.2
+
+FormationTime 0
+ RRR
+R   R
+R   R
+R   R
+ RRR
+EndFormation
+Hold 0.2
+
+FormationTime 0
+  RRR
+ R   R
+R     R
+R  O  R
+R     R
+ R   R
+  RRR
+EndFormation
+Hold 0.2
+
+FormationTime 0
+  RRRRR
+ R     R
+R       R
+R   O   R
+R  O O  R
+R   O   R
+R       R
+ R     R
+  RRRRR
+EndFormation
+Hold 0.2
+
+FormationTime 0
+   RRRRR
+  R     R
+ R       R
+R   OOO   R
+R  O   O  R
+R  O   O  R
+R  O   O  R
+R   OOO   R
+ R       R
+  R     R
+   RRRRR
+EndFormation
+Hold 0.2
+
+FormationTime 0
+    RRRRR
+  RR     RR
+ R         R
+ R   OOO   R
+R   O   O   R
+R  O     O  R
+R  O  Y  O  R
+R  O     O  R
+R   O   O   R
+ R   OOO   R
+ R         R
+  RR     RR
+    RRRRR
+EndFormation
+Hold 0.2
+
+FormationTime 0
+     RRRRR
+   RR     RR
+  R         R
+ R   OOOOO   R
+ R  O     O  R
+R  O       O  R
+R  O   Y   O  R
+R  O  Y Y  O  R
+R  O   Y   O  R
+R  O       O  R
+ R  O     O  R
+ R   OOOOO   R
+  R         R
+   RR     RR
+     RRRRR
+EndFormation
+Hold 0.2
+
+FormationTime 0
+      RRRRR
+    RR     RR
+   R         R
+  R   OOOOO   R
+ R   O     O   R
+ R  O       O  R
+R  O   YYY   O  R
+R  O  Y   Y  O  R
+R  O  Y   Y  O  R
+R  O  Y   Y  O  R
+R  O   YYY   O  R
+ R  O       O  R
+ R   O     O   R
+  R   OOOOO   R
+   R         R
+    RR     RR
+      RRRRR
+EndFormation
+Hold 0.2
+
+FormationTime 0
+      RRRRRRR
+    RR       RR
+   R           R
+  R    OOOOO    R
+ R   OO     OO   R
+ R  O         O  R
+R   O   YYY   O   R
+R  O   Y   Y   O  R
+R  O  Y     Y  O  R
+R  O  Y  G  Y  O  R
+R  O  Y     Y  O  R
+R  O   Y   Y   O  R
+R   O   YYY   O   R
+ R  O         O  R
+ R   OO     OO   R
+  R    OOOOO    R
+   R           R
+    RR       RR
+      RRRRRRR
+EndFormation
+Hold 0.2
+
+FormationTime 0
+       RRRRRRR
+     RR       RR
+    R           R
+   R    OOOOO    R
+  R   OO     OO   R
+ R   O         O   R
+ R  O   YYYYY   O  R
+R   O  Y     Y  O   R
+R  O  Y       Y  O  R
+R  O  Y   G   Y  O  R
+R  O  Y  G G  Y  O  R
+R  O  Y   G   Y  O  R
+R  O  Y       Y  O  R
+R   O  Y     Y  O   R
+ R  O   YYYYY   O  R
+ R   O         O   R
+  R   OO     OO   R
+   R    OOOOO    R
+    R           R
+     RR       RR
+       RRRRRRR
+EndFormation
+Hold 0.2
+
+FormationTime 0
+      OOOOO
+    OO     OO
+   O         O
+  O   YYYYY   O
+ O   Y     Y   O
+ O  Y       Y  O
+O  Y   GGG   Y  O
+O  Y  G   G  Y  O
+O  Y  G   G  Y  O
+O  Y  G   G  Y  O
+O  Y   GGG   Y  O
+ O  Y       Y  O
+ O   Y     Y   O
+  O   YYYYY   O
+   O         O
+    OO     OO
+      OOOOO
+EndFormation
+Hold 0.2
+
+FormationTime 0
+      OOOOOOO
+    OO       OO
+   O           O
+  O    YYYYY    O
+ O   YY     YY   O
+ O  Y         Y  O
+O   Y   GGG   Y   O
+O  Y   G   G   Y  O
+O  Y  G     G  Y  O
+O  Y  G  B  G  Y  O
+O  Y  G     G  Y  O
+O  Y   G   G   Y  O
+O   Y   GGG   Y   O
+ O  Y         Y  O
+ O   YY     YY   O
+  O    YYYYY    O
+   O           O
+    OO       OO
+      OOOOOOO
+EndFormation
+Hold 0.2
+
+FormationTime 0
+       OOOOOOO
+     OO       OO
+    O           O
+   O    YYYYY    O
+  O   YY     YY   O
+ O   Y         Y   O
+ O  Y   GGGGG   Y  O
+O   Y  G     G  Y   O
+O  Y  G       G  Y  O
+O  Y  G   B   G  Y  O
+O  Y  G  B B  G  Y  O
+O  Y  G   B   G  Y  O
+O  Y  G       G  Y  O
+O   Y  G     G  Y   O
+ O  Y   GGGGG   Y  O
+ O   Y         Y   O
+  O   YY     YY   O
+   O    YYYYY    O
+    O           O
+     OO       OO
+       OOOOOOO
+EndFormation
+Hold 0.2
+
+FormationTime 0
+      YYYYY
+    YY     YY
+   Y         Y
+  Y   GGGGG   Y
+ Y   G     G   Y
+ Y  G       G  Y
+Y  G   BBB   G  Y
+Y  G  B   B  G  Y
+Y  G  B   B  G  Y
+Y  G  B   B  G  Y
+Y  G   BBB   G  Y
+ Y  G       G  Y
+ Y   G     G   Y
+  Y   GGGGG   Y
+   Y         Y
+    YY     YY
+      YYYYY
+EndFormation
+Hold 0.2
+
+FormationTime 0
+      YYYYYYY
+    YY       YY
+   Y           Y
+  Y    GGGGG    Y
+ Y   GG     GG   Y
+ Y  G         G  Y
+Y   G   BBB   G   Y
+Y  G   B   B   G  Y
+Y  G  B     B  G  Y
+Y  G  B  V  B  G  Y
+Y  G  B     B  G  Y
+Y  G   B   B   G  Y
+Y   G   BBB   G   Y
+ Y  G         G  Y
+ Y   GG     GG   Y
+  Y    GGGGG    Y
+   Y           Y
+    YY       YY
+      YYYYYYY
+EndFormation
+Hold 0.2
+
+FormationTime 0
+       YYYYYYY
+     YY       YY
+    Y           Y
+   Y    GGGGG    Y
+  Y   GG     GG   Y
+ Y   G         G   Y
+ Y  G   BBBBB   G  Y
+Y   G  B     B  G   Y
+Y  G  B       B  G  Y
+Y  G  B   V   B  G  Y
+Y  G  B  V V  B  G  Y
+Y  G  B   V   B  G  Y
+Y  G  B       B  G  Y
+Y   G  B     B  G   Y
+ Y  G   BBBBB   G  Y
+ Y   G         G   Y
+  Y   GG     GG   Y
+   Y    GGGGG    Y
+    Y           Y
+     YY       YY
+       YYYYYYY
+EndFormation
+Hold 0.2
+
+FormationTime 0
+      GGGGG
+    GG     GG
+   G         G
+  G   BBBBB   G
+ G   B     B   G
+ G  B       B  G
+G  B   VVV   B  G
+G  B  V   V  B  G
+G  B  V   V  B  G
+G  B  V   V  B  G
+G  B   VVV   B  G
+ G  B       B  G
+ G   B     B   G
+  G   BBBBB   G
+   G         G
+    GG     GG
+      GGGGG
+EndFormation
+Hold 0.2
+
+FormationTime 0
+      GGGGGGG
+    GG       GG
+   G           G
+  G    BBBBB    G
+ G   BB     BB   G
+ G  B         B  G
+G   B   VVV   B   G
+G  B   V   V   B  G
+G  B  V     V  B  G
+G  B  V  R  V  B  G
+G  B  V     V  B  G
+G  B   V   V   B  G
+G   B   VVV   B   G
+ G  B         B  G
+ G   BB     BB   G
+  G    BBBBB    G
+   G           G
+    GG       GG
+      GGGGGGG
+EndFormation
+Hold 0.2
+
+FormationTime 0
+       GGGGGGG
+     GG       GG
+    G           G
+   G    BBBBB    G
+  G   BB     BB   G
+ G   B         B   G
+ G  B   VVVVV   B  G
+G   B  V     V  B   G
+G  B  V       V  B  G
+G  B  V   R   V  B  G
+G  B  V  R R  V  B  G
+G  B  V   R   V  B  G
+G  B  V       V  B  G
+G   B  V     V  B   G
+ G  B   VVVVV   B  G
+ G   B         B   G
+  G   BB     BB   G
+   G    BBBBB    G
+    G           G
+     GG       GG
+       GGGGGGG
+EndFormation
+Hold 0.2
+
+FormationTime 0
+      BBBBB
+    BB     BB
+   B         B
+  B   VVVVV   B
+ B   V     V   B
+ B  V       V  B
+B  V   RRR   V  B
+B  V  R   R  V  B
+B  V  R   R  V  B
+B  V  R   R  V  B
+B  V   RRR   V  B
+ B  V       V  B
+ B   V     V   B
+  B   VVVVV   B
+   B         B
+    BB     BB
+      BBBBB
+EndFormation
+Hold 0.2
+
+FormationTime 0
+      BBBBBBB
+    BB       BB
+   B           B
+  B    VVVVV    B
+ B   VV     VV   B
+ B  V         V  B
+B   V   RRR   V   B
+B  V   R   R   V  B
+B  V  R     R  V  B
+B  V  R  O  R  V  B
+B  V  R     R  V  B
+B  V   R   R   V  B
+B   V   RRR   V   B
+ B  V         V  B
+ B   VV     VV   B
+  B    VVVVV    B
+   B           B
+    BB       BB
+      BBBBBBB
+EndFormation
+Hold 0.2
+
+FormationTime 0
+       BBBBBBB
+     BB       BB
+    B           B
+   B    VVVVV    B
+  B   VV     VV   B
+ B   V         V   B
+ B  V   RRRRR   V  B
+B   V  R     R  V   B
+B  V  R       R  V  B
+B  V  R   O   R  V  B
+B  V  R  O O  R  V  B
+B  V  R   O   R  V  B
+B  V  R       R  V  B
+B   V  R     R  V   B
+ B  V   RRRRR   V  B
+ B   V         V   B
+  B   VV     VV   B
+   B    VVVVV    B
+    B           B
+     BB       BB
+       BBBBBBB
+EndFormation
+Hold 0.2
+
+FormationTime 0
+      VVVVV
+    VV     VV
+   V         V
+  V   RRRRR   V
+ V   R     R   V
+ V  R       R  V
+V  R   OOO   R  V
+V  R  O   O  R  V
+V  R  O   O  R  V
+V  R  O   O  R  V
+V  R   OOO   R  V
+ V  R       R  V
+ V   R     R   V
+  V   RRRRR   V
+   V         V
+    VV     VV
+      VVVVV
+EndFormation
+Hold 0.2
+
+FormationTime 0
+      VVVVVVV
+    VV       VV
+   V           V
+  V    RRRRR    V
+ V   RR     RR   V
+ V  R         R  V
+V   R   OOO   R   V
+V  R   O   O   R  V
+V  R  O     O  R  V
+V  R  O  Y  O  R  V
+V  R  O     O  R  V
+V  R   O   O   R  V
+V   R   OOO   R   V
+ V  R         R  V
+ V   RR     RR   V
+  V    RRRRR    V
+   V           V
+    VV       VV
+      VVVVVVV
+EndFormation
+Hold 0.2
+
+FormationTime 0
+       VVVVVVV
+     VV       VV
+    V           V
+   V    RRRRR    V
+  V   RR     RR   V
+ V   R         R   V
+ V  R   OOOOO   R  V
+V   R  O     O  R   V
+V  R  O       O  R  V
+V  R  O   Y   O  R  V
+V  R  O  Y Y  O  R  V
+V  R  O   Y   O  R  V
+V  R  O       O  R  V
+V   R  O     O  R   V
+ V  R   OOOOO   R  V
+ V   R         R   V
+  V   RR     RR   V
+   V    RRRRR    V
+    V           V
+     VV       VV
+       VVVVVVV
+EndFormation
+Hold 0.2
+
+FormationTime 0
+      RRRRR
+    RR     RR
+   R         R
+  R   OOOOO   R
+ R   O     O   R
+ R  O       O  R
+R  O   YYY   O  R
+R  O  Y   Y  O  R
+R  O  Y   Y  O  R
+R  O  Y   Y  O  R
+R  O   YYY   O  R
+ R  O       O  R
+ R   O     O   R
+  R   OOOOO   R
+   R         R
+    RR     RR
+      RRRRR
+EndFormation
+Hold 0.2
+
+FormationTime 0
+      RRRRRRR
+    RR       RR
+   R           R
+  R    OOOOO    R
+ R   OO     OO   R
+ R  O         O  R
+R   O   YYY   O   R
+R  O   Y   Y   O  R
+R  O  Y     Y  O  R
+R  O  Y  G  Y  O  R
+R  O  Y     Y  O  R
+R  O   Y   Y   O  R
+R   O   YYY   O   R
+ R  O         O  R
+ R   OO     OO   R
+  R    OOOOO    R
+   R           R
+    RR       RR
+      RRRRRRR
+EndFormation
+Hold 0.2
+
+FormationTime 0
+       RRRRRRR
+     RR       RR
+    R           R
+   R    OOOOO    R
+  R   OO     OO   R
+ R   O         O   R
+ R  O   YYYYY   O  R
+R   O  Y     Y  O   R
+R  O  Y       Y  O  R
+R  O  Y   G   Y  O  R
+R  O  Y  G G  Y  O  R
+R  O  Y   G   Y  O  R
+R  O  Y       Y  O  R
+R   O  Y     Y  O   R
+ R  O   YYYYY   O  R
+ R   O         O   R
+  R   OO     OO   R
+   R    OOOOO    R
+    R           R
+     RR       RR
+       RRRRRRR
+EndFormation
+Hold 0.2
+
+FormationTime 0
+      OOOOO
+    OO     OO
+   O         O
+  O   YYYYY   O
+ O   Y     Y   O
+ O  Y       Y  O
+O  Y   GGG   Y  O
+O  Y  G   G  Y  O
+O  Y  G   G  Y  O
+O  Y  G   G  Y  O
+O  Y   GGG   Y  O
+ O  Y       Y  O
+ O   Y     Y   O
+  O   YYYYY   O
+   O         O
+    OO     OO
+      OOOOO
+EndFormation
+Hold 0.2
+
+FormationTime 0
+      OOOOOOO
+    OO       OO
+   O           O
+  O    YYYYY    O
+ O   YY     YY   O
+ O  Y         Y  O
+O   Y   GGG   Y   O
+O  Y   G   G   Y  O
+O  Y  G     G  Y  O
+O  Y  G  B  G  Y  O
+O  Y  G     G  Y  O
+O  Y   G   G   Y  O
+O   Y   GGG   Y   O
+ O  Y         Y  O
+ O   YY     YY   O
+  O    YYYYY    O
+   O           O
+    OO       OO
+      OOOOOOO
+EndFormation
+Hold 0.2
+
+FormationTime 0
+       OOOOOOO
+     OO       OO
+    O           O
+   O    YYYYY    O
+  O   YY     YY   O
+ O   Y         Y   O
+ O  Y   GGGGG   Y  O
+O   Y  G     G  Y   O
+O  Y  G       G  Y  O
+O  Y  G   B   G  Y  O
+O  Y  G  B B  G  Y  O
+O  Y  G   B   G  Y  O
+O  Y  G       G  Y  O
+O   Y  G     G  Y   O
+ O  Y   GGGGG   Y  O
+ O   Y         Y   O
+  O   YY     YY   O
+   O    YYYYY    O
+    O           O
+     OO       OO
+       OOOOOOO
+EndFormation
+Hold 0.2
+
+FormationTime 0
+      YYYYY
+    YY     YY
+   Y         Y
+  Y   GGGGG   Y
+ Y   G     G   Y
+ Y  G       G  Y
+Y  G   BBB   G  Y
+Y  G  B   B  G  Y
+Y  G  B   B  G  Y
+Y  G  B   B  G  Y
+Y  G   BBB   G  Y
+ Y  G       G  Y
+ Y   G     G   Y
+  Y   GGGGG   Y
+   Y         Y
+    YY     YY
+      YYYYY
+EndFormation
+Hold 0.2
+
+FormationTime 0
+      YYYYYYY
+    YY       YY
+   Y           Y
+  Y    GGGGG    Y
+ Y   GG     GG   Y
+ Y  G         G  Y
+Y   G   BBB   G   Y
+Y  G   B   B   G  Y
+Y  G  B     B  G  Y
+Y  G  B  V  B  G  Y
+Y  G  B     B  G  Y
+Y  G   B   B   G  Y
+Y   G   BBB   G   Y
+ Y  G         G  Y
+ Y   GG     GG   Y
+  Y    GGGGG    Y
+   Y           Y
+    YY       YY
+      YYYYYYY
+EndFormation
+Hold 0.2
+
+FormationTime 0
+       YYYYYYY
+     YY       YY
+    Y           Y
+   Y    GGGGG    Y
+  Y   GG     GG   Y
+ Y   G         G   Y
+ Y  G   BBBBB   G  Y
+Y   G  B     B  G   Y
+Y  G  B       B  G  Y
+Y  G  B   V   B  G  Y
+Y  G  B  V V  B  G  Y
+Y  G  B   V   B  G  Y
+Y  G  B       B  G  Y
+Y   G  B     B  G   Y
+ Y  G   BBBBB   G  Y
+ Y   G         G   Y
+  Y   GG     GG   Y
+   Y    GGGGG    Y
+    Y           Y
+     YY       YY
+       YYYYYYY
+EndFormation
+Hold 0.2
+
+FormationTime 0
+      GGGGG
+    GG     GG
+   G         G
+  G   BBBBB   G
+ G   B     B   G
+ G  B       B  G
+G  B   VVV   B  G
+G  B  V   V  B  G
+G  B  V   V  B  G
+G  B  V   V  B  G
+G  B   VVV   B  G
+ G  B       B  G
+ G   B     B   G
+  G   BBBBB   G
+   G         G
+    GG     GG
+      GGGGG
+EndFormation
+Hold 0.2
+
+FormationTime 0
+      GGGGGGG
+    GG       GG
+   G           G
+  G    BBBBB    G
+ G   BB     BB   G
+ G  B         B  G
+G   B   VVV   B   G
+G  B   V   V   B  G
+G  B  V     V  B  G
+G  B  V     V  B  G
+G  B  V     V  B  G
+G  B   V   V   B  G
+G   B   VVV   B   G
+ G  B         B  G
+ G   BB     BB   G
+  G    BBBBB    G
+   G           G
+    GG       GG
+      GGGGGGG
+EndFormation
+Hold 0.2
+
+FormationTime 0
+       GGGGGGG
+     GG       GG
+    G           G
+   G    BBBBB    G
+  G   BB     BB   G
+ G   B         B   G
+ G  B   VVVVV   B  G
+G   B  V     V  B   G
+G  B  V       V  B  G
+G  B  V       V  B  G
+G  B  V       V  B  G
+G  B  V       V  B  G
+G  B  V       V  B  G
+G   B  V     V  B   G
+ G  B   VVVVV   B  G
+ G   B         B   G
+  G   BB     BB   G
+   G    BBBBB    G
+    G           G
+     GG       GG
+       GGGGGGG
+EndFormation
+Hold 0.2
+
+FormationTime 0
+      BBBBB
+    BB     BB
+   B         B
+  B   VVVVV   B
+ B   V     V   B
+ B  V       V  B
+B  V         V  B
+B  V         V  B
+B  V         V  B
+B  V         V  B
+B  V         V  B
+ B  V       V  B
+ B   V     V   B
+  B   VVVVV   B
+   B         B
+    BB     BB
+      BBBBB
+EndFormation
+Hold 0.2
+
+FormationTime 0
+      BBBBBBB
+    BB       BB
+   B           B
+  B    VVVVV    B
+ B   VV     VV   B
+ B  V         V  B
+B   V         V   B
+B  V           V  B
+B  V           V  B
+B  V           V  B
+B  V           V  B
+B  V           V  B
+B   V         V   B
+ B  V         V  B
+ B   VV     VV   B
+  B    VVVVV    B
+   B           B
+    BB       BB
+      BBBBBBB
+EndFormation
+Hold 0.2
+
+FormationTime 0
+       BBBBBBB
+     BB       BB
+    B           B
+   B    VVVVV    B
+  B   VV     VV   B
+ B   V         V   B
+ B  V           V  B
+B   V           V   B
+B  V             V  B
+B  V             V  B
+B  V             V  B
+B  V             V  B
+B  V             V  B
+B   V           V   B
+ B  V           V  B
+ B   V         V   B
+  B   VV     VV   B
+   B    VVVVV    B
+    B           B
+     BB       BB
+       BBBBBBB
+EndFormation
+Hold 0.2
+
+FormationTime 0
+      VVVVV
+    VV     VV
+   V         V
+  V           V
+ V             V
+ V             V
+V               V
+V               V
+V               V
+V               V
+V               V
+ V             V
+ V             V
+  V           V
+   V         V
+    VV     VV
+      VVVVV
+EndFormation
+Hold 0.2
+
+FormationTime 0
+      VVVVVVV
+    VV       VV
+   V           V
+  V             V
+ V               V
+ V               V
+V                 V
+V                 V
+V                 V
+V                 V
+V                 V
+V                 V
+V                 V
+ V               V
+ V               V
+  V             V
+   V           V
+    VV       VV
+      VVVVVVV
+EndFormation
+Hold 0.2
+
+FormationTime 0
+       VVVVVVV
+     VV       VV
+    V           V
+   V             V
+  V               V
+ V                 V
+ V                 V
+V                   V
+V                   V
+V                   V
+V                   V
+V                   V
+V                   V
+V                   V
+ V                 V
+ V                 V
+  V               V
+   V             V
+    V           V
+     VV       VV
+       VVVVVVV
+EndFormation
+Hold 0.2
+
+FormationTime 0.5
+  RRRRRR
+  RRRRRR
+RR      RR
+RR      RR
+        RR
+        RR
+    RRRR
+    RRRR
+        RR
+        RR
+RR      RR
+RR      RR
+  RRRRRR
+  RRRRRR
+EndFormation
+Hold 0.5
+
+FormationTime 0.5
+  OOOOOO
+  OOOOOO
+OO      OO
+OO      OO
+        OO
+        OO
+    OOOO
+    OOOO
+  OO
+  OO
+OO
+OO
+OOOOOOOOOO
+OOOOOOOOOO
+EndFormation
+Hold 0.5
+
+FormationTime 0.5
+  YY
+  YY
+YYYY
+YYYY
+  YY
+  YY
+  YY
+  YY
+  YY
+  YY
+  YY
+  YY
+YYYYYY
+YYYYYY
+EndFormation
+Hold 0.5
+
+FormationTime 0.5
+  GGGGGG      GGGGGG
+  GGGGGG      GGGGGG
+GG      GG  GG      GG
+GG      GG  GG      GG
+GG          GG      GG
+GG          GG      GG
+GG          GG      GG
+GG          GG      GG
+GG    GGGG  GG      GG
+GG    GGGG  GG      GG
+GG      GG  GG      GG
+GG      GG  GG      GG
+  GGGGGG      GGGGGG
+  GGGGGG      GGGGGG
+EndFormation
+
+# Rocket [rocketType] [position] [rotation] [delayStartSeconds] [speed] [acceleration]
+Rocket RocketBiomass1 649,40,-127 0,0,0 0 0 10
+
+Hold 5
+
+# Moon at Night
+ShowCenter -89,90,5 0 0
+TeleportPlayer -99,80,32 0 0
+
+# Rocket flying overhead
+Rocket RocketBiomass1 300,180,-250 90,-70,0 0 100 10
+
+FormationTime 2
+                       WWW
+                      W   W
+                      W   W
+           VVVVV      W   W
+         VV     VV     WWW
+        V         V
+       V           V
+      V             V
+      V             V
+     V               V
+     V               V
+     V               V
+     V               V
+     V               V
+      V             V
+      V             V
+       V           V
+        V         V
+         VV     VV
+           VVVVV
+
+BB
+BB
+EndFormation
+
+Rotate Z -360 4
+
+FormationTime 1
+        YYYYYY
+      YY      YY
+    YY          YY
+   Y              Y
+  Y         WW     Y
+  Y        W BW    Y              RRRR
+ Y         W BW     Y           RR    RR
+ Y          WW      Y          R        R
+Y                 YY          R  WW    WWR
+Y               YY            R W  W  W  W
+Y             YY              R W BB  W BB
+Y           YY               R  W BB  W BBR
+Y         YY                 R   WW    WW R
+Y          YY                R            R
+ Y           YY              R            R
+ Y             YY            R            R
+  Y              YY          R            R
+  Y                Y         R   R    R   R
+   Y              Y          R  R R  R R  R
+    YY          YY            RR   RR   RR
+      YY      YY
+        YYYYYY
+EndFormation
+Hold 0.25
+
+FormationTime 0
+        YYYYYY
+      YY      YY
+    YY          YY
+   Y              Y
+  Y         WW     Y
+  Y        W BW    Y              RRRR
+ Y         W BW     Y           RR    RR
+ Y          WW      Y          R        R
+Y                    Y        R  WW    WWR
+Y                  YYY        R W  W  W  W
+Y               YYY           R W BB  W BB
+Y            YYY             R  W BB  W BBR
+Y         YYY                R   WW    WW R
+Y            YYY             R            R
+ Y              YYY          R            R
+ Y                 YY        R            R
+  Y                Y         R            R
+  Y                Y         R R    R    RR
+   Y              Y          RR R  R R  R R
+    YY          YY           R   RR   RR
+      YY      YY
+        YYYYYY
+EndFormation
+Hold 0.25
+
+FormationTime 0
+        YYYYYY
+      YY      YY
+    YY          YY
+   Y              Y
+  Y         WW     Y
+  Y        W BW    Y              RRRR
+ Y         W BW     Y           RR    RR
+ Y          WW      Y          R        R
+Y                    Y        R  WW    WWR
+Y                    Y        R W  W  W  W
+Y                    Y        R W BB  W BB
+Y                    Y       R  W BB  W BBR
+Y         YYYYYYYYYYYY       R   WW    WW R
+Y                    Y       R            R
+ Y                  Y        R            R
+ Y                  Y        R            R
+  Y                Y         R            R
+  Y                Y         RR    R    R R
+   Y              Y          R R  R R  R RR
+    YY          YY              RR   RR   R
+      YY      YY
+        YYYYYY
+EndFormation
+Hold 0.25
+
+FormationTime 0
+        YYYYYY
+      YY      YY
+    YY          YY
+   Y              Y
+  Y         WW     Y
+  Y        W BW    Y              RRRR
+ Y         W BW     Y           RR    RR
+ Y          WW      Y          R        R
+Y                    Y        R  WW    WWR
+Y                  YYY        R W  W  W  W
+Y               YYY           R W BB  W BB
+Y            YYY             R  W BB  W BBR
+Y         YYY                R   WW    WW R
+Y            YYY             R            R
+ Y              YYY          R            R
+ Y                 YY        R            R
+  Y                Y         R            R
+  Y                Y         R    R    R  R
+   Y              Y          RR  R R  R R R
+    YY          YY             RR   RR   RR
+      YY      YY
+        YYYYYY
+EndFormation
+Hold 0.25
+
+FormationTime 0
+        YYYYYY
+      YY      YY
+    YY          YY
+   Y              Y
+  Y         WW     Y
+  Y        W BW    Y              RRRR
+ Y         W BW     Y           RR    RR
+ Y          WW      Y          R        R
+Y                 YY          R  WW    WWR
+Y               YY            R W  W  W  W
+Y             YY              R W BB  W BB
+Y           YY               R  W BB  W BBR
+Y         YY                 R   WW    WW R
+Y          YY                R            R
+ Y           YY              R            R
+ Y             YY            R            R
+  Y              YY          R            R
+  Y                Y         R   R    R   R
+   Y              Y          R  R R  R R  R
+    YY          YY            RR   RR   RR
+      YY      YY
+        YYYYYY
+EndFormation
+Hold 0.25
+
+FormationTime 0
+        YYYYYY
+      YY      YY
+    YY          YY
+   Y              Y
+  Y         WW     Y
+  Y        W BW    Y              RRRR
+ Y         W BW     Y           RR    RR
+ Y          WW      Y          R        R
+Y                    Y        R  WW    WWR
+Y                  YYY        R W  W  W  W
+Y               YYY           R W BB  W BB
+Y            YYY             R  W BB  W BBR
+Y         YYY                R   WW    WW R
+Y            YYY             R            R
+ Y              YYY          R            R
+ Y                 YY        R            R
+  Y                Y         R            R
+  Y                Y         R R    R    RR
+   Y              Y          RR R  R R  R R
+    YY          YY           R   RR   RR
+      YY      YY
+        YYYYYY
+EndFormation
+Hold 0.25
+
+FormationTime 0
+        YYYYYY
+      YY      YY
+    YY          YY
+   Y              Y
+  Y         WW     Y
+  Y        W BW    Y              RRRR
+ Y         W BW     Y           RR    RR
+ Y          WW      Y          R        R
+Y                    Y        R  WW    WWR
+Y                    Y        R W  W  W  W
+Y                    Y        R W BB  W BB
+Y                    Y       R  W BB  W BBR
+Y         YYYYYYYYYYYY       R   WW    WW R
+Y                    Y       R            R
+ Y                  Y        R            R
+ Y                  Y        R            R
+  Y                Y         R            R
+  Y                Y         RR    R    R R
+   Y              Y          R R  R R  R RR
+    YY          YY              RR   RR   R
+      YY      YY
+        YYYYYY
+EndFormation
+Hold 0.25
+
+FormationTime 0
+        YYYYYY
+      YY      YY
+    YY          YY
+   Y              Y
+  Y         WW     Y
+  Y        W BW    Y              RRRR
+ Y         W BW     Y           RR    RR
+ Y          WW      Y          R        R
+Y                    Y        R  WW    WWR
+Y                  YYY        R W  W  W  W
+Y               YYY           R W BB  W BB
+Y            YYY             R  W BB  W BBR
+Y         YYY                R   WW    WW R
+Y            YYY             R            R
+ Y              YYY          R            R
+ Y                 YY        R            R
+  Y                Y         R            R
+  Y                Y         R    R    R  R
+   Y              Y          RR  R R  R R R
+    YY          YY             RR   RR   RR
+      YY      YY
+        YYYYYY
+EndFormation
+Hold 0.25
+
+FormationTime 0
+        YYYYYY
+      YY      YY
+    YY          YY
+   Y              Y
+  Y         WW     Y
+  Y        W BW    Y              RRRR
+ Y         W BW     Y           RR    RR
+ Y          WW      Y          R        R
+Y                 YY          R  WW    WWR
+Y               YY            R W  W  W  W
+Y             YY              R W BB  W BB
+Y           YY               R  W BB  W BBR
+Y         YY                 R   WW    WW R
+Y          YY                R            R
+ Y           YY              R            R
+ Y             YY            R            R
+  Y              YY          R            R
+  Y                Y         R   R    R   R
+   Y              Y          R  R R  R R  R
+    YY          YY            RR   RR   RR
+      YY      YY
+        YYYYYY
+EndFormation
+Hold 0.25
+
+FormationTime 0
+        YYYYYY
+      YY      YY
+    YY          YY
+   Y              Y
+  Y         WW     Y
+  Y        W BW    Y              RRRR
+ Y         W BW     Y           RR    RR
+ Y          WW      Y          R        R
+Y                    Y        R  WW    WWR
+Y                  YYY        R W  W  W  W
+Y               YYY           R W BB  W BB
+Y            YYY             R  W BB  W BBR
+Y         YYY                R   WW    WW R
+Y            YYY             R            R
+ Y              YYY          R            R
+ Y                 YY        R            R
+  Y                Y         R            R
+  Y                Y         R R    R    RR
+   Y              Y          RR R  R R  R R
+    YY          YY           R   RR   RR
+      YY      YY
+        YYYYYY
+EndFormation
+Hold 0.25
+
+FormationTime 0
+        YYYYYY
+      YY      YY
+    YY          YY
+   Y              Y
+  Y         WW     Y
+  Y        W BW    Y              RRRR
+ Y         W BW     Y           RR    RR
+ Y          WW      Y          R        R
+Y                    Y        R  WW    WWR
+Y                    Y        R W  W  W  W
+Y                    Y        R W BB  W BB
+Y                    Y       R  W BB  W BBR
+Y         YYYYYYYYYYYY       R   WW    WW R
+Y                    Y       R            R
+ Y                  Y        R            R
+ Y                  Y        R            R
+  Y                Y         R            R
+  Y                Y         RR    R    R R
+   Y              Y          R R  R R  R RR
+    YY          YY              RR   RR   R
+      YY      YY
+        YYYYYY
+EndFormation
+Hold 0.25
+
+FormationTime 0
+        YYYYYY
+      YY      YY
+    YY          YY
+   Y              Y
+  Y         WW     Y
+  Y        W BW    Y              RRRR
+ Y         W BW     Y           RR    RR
+ Y          WW      Y          R        R
+Y                    Y        R  WW    WWR
+Y                  YYY        R W  W  W  W
+Y               YYY           R W BB  W BB
+Y            YYY             R  W BB  W BBR
+Y         YYY                R   WW    WW R
+Y            YYY             R            R
+ Y              YYY          R            R
+ Y                 YY        R            R
+  Y                Y         R            R
+  Y                Y         R    R    R  R
+   Y              Y          RR  R R  R R R
+    YY          YY             RR   RR   RR
+      YY      YY
+        YYYYYY
+EndFormation
+Hold 0.25
+
+FormationTime 0
+        YYYYYY
+      YY      YY
+    YY          YY
+   Y              Y
+  Y         WW     Y
+  Y        W BW    Y              RRRR
+ Y         W BW     Y           RR    RR
+ Y          WW      Y          R        R
+Y                 YY          R  WW    WWR
+Y               YY            R W  W  W  W
+Y             YY              R W BB  W BB
+Y           YY               R  W BB  W BBR
+Y         YY                 R   WW    WW R
+Y          YY                R            R
+ Y           YY              R            R
+ Y             YY            R            R
+  Y              YY          R            R
+  Y                Y         R   R    R   R
+   Y              Y          R  R R  R R  R
+    YY          YY            RR   RR   RR
+      YY      YY
+        YYYYYY
+EndFormation
+Hold 0.25
+
+FormationTime 0
+        YYYYYY
+      YY      YY
+    YY          YY
+   Y              Y
+  Y         WW     Y
+  Y        W BW    Y              RRRR
+ Y         W BW     Y           RR    RR
+ Y          WW      Y          R        R
+Y                    Y        R  WW    WWR
+Y                  YYY        R W  W  W  W
+Y               YYY           R W BB  W BB
+Y            YYY             R  W BB  W BBR
+Y         YYY                R   WW    WW R
+Y            YYY             R            R
+ Y              YYY          R            R
+ Y                 YY        R            R
+  Y                Y         R            R
+  Y                Y         R R    R    RR
+   Y              Y          RR R  R R  R R
+    YY          YY           R   RR   RR
+      YY      YY
+        YYYYYY
+EndFormation
+Hold 0.25
+
+FormationTime 0
+        YYYYYY
+      YY      YY
+    YY          YY
+   Y              Y
+  Y         WW     Y
+  Y        W BW    Y              RRRR
+ Y         W BW     Y           RR    RR
+ Y          WW      Y          R        R
+Y                    Y        R  WW    WWR
+Y                    Y        R W  W  W  W
+Y                    Y        R W BB  W BB
+Y                    Y       R  W BB  W BBR
+Y         YYYYYYYYYYYY       R   WW    WW R
+Y                    Y       R            R
+ Y                  Y        R            R
+ Y                  Y        R            R
+  Y                Y         R            R
+  Y                Y         RR    R    R R
+   Y              Y          R R  R R  R RR
+    YY          YY              RR   RR   R
+      YY      YY
+        YYYYYY
+EndFormation
+Hold 0.25
+
+FormationTime 0
+        YYYYYY
+      YY      YY
+    YY          YY
+   Y              Y
+  Y         WW     Y
+  Y        W BW    Y              RRRR
+ Y         W BW     Y           RR    RR
+ Y          WW      Y          R        R
+Y                    Y        R  WW    WWR
+Y                  YYY        R W  W  W  W
+Y               YYY           R W BB  W BB
+Y            YYY             R  W BB  W BBR
+Y         YYY                R   WW    WW R
+Y            YYY             R            R
+ Y              YYY          R            R
+ Y                 YY        R            R
+  Y                Y         R            R
+  Y                Y         R    R    R  R
+   Y              Y          RR  R R  R R R
+    YY          YY             RR   RR   RR
+      YY      YY
+        YYYYYY
+EndFormation
+Hold 0.25
+
+FormationTime 0
+        YYYYYY
+      YY      YY
+    YY          YY
+   Y              Y
+  Y         WW     Y
+  Y        W BW    Y              RRRR
+ Y         W BW     Y           RR    RR
+ Y          WW      Y          R        R
+Y                 YY          R  WW    WWR
+Y               YY            R W  W  W  W
+Y             YY              R W BB  W BB
+Y           YY               R  W BB  W BBR
+Y         YY                 R   WW    WW R
+Y          YY                R            R
+ Y           YY              R            R
+ Y             YY            R            R
+  Y              YY          R            R
+  Y                Y         R   R    R   R
+   Y              Y          R  R R  R R  R
+    YY          YY            RR   RR   RR
+      YY      YY
+        YYYYYY
+EndFormation
+Hold 0.25
+
+# Waterfall
+ShowCenter -530,105,609 0 0
+TeleportPlayer -500,90,622 0 0
+
+# Rainbow
+FormationTime 0.5
+          RRRRRR
+       RRROOOOOORRR
+      ROOOYYYYYYOOOR
+    RROOYYGGGGGGYYOORR
+   ROOYYGGBBBBBBGGYYOOR
+   ROYGGBBVVVVVVBBGGYOR
+  ROYGGBVV      VVBGGYOR
+ ROOYGBVV        VVBGYOOR
+ ROYGBV            VBGYOR
+ ROYGBV            VBGYOR
+ROYGBV              VBGYOR
+ROYGBV              VBGYOR
+ROYGBV              VBGYOR
+ROYGBV              VBGYOR
+EndFormation
+Hold 1
+
+FormationTime 0
+          OOOOOO
+       OOOYYYYYYOOO
+      OYYYGGGGGGYYYO
+    OOYYGGBBBBBBGGYYOO
+   OYYGGBBVVVVVVBBGGYYO
+   OYGBBVVRRRRRRVVBBGYO
+  OYGBBVRR      RRVBBGYO
+ OYYGBVRR        RRVBGYYO
+ OYGBVR            RVBGYO
+ OYGBVR            RVBGYO
+OYGBVR              RVBGYO
+OYGBVR              RVBGYO
+OYGBVR              RVBGYO
+OYGBVR              RVBGYO
+EndFormation
+Hold 0.25
+
+FormationTime 0
+          YYYYYY
+       YYYGGGGGGYYY
+      YGGGBBBBBBGGGY
+    YYGGBBVVVVVVBBGGYY
+   YGGBBVVRRRRRRVVBBGGY
+   YGBVVRROOOOOORRVVBGY
+  YGBVVROO      OORVVBGY
+ YGGBVROO        OORVBGGY
+ YGBVRO            ORVBGY
+ YGBVRO            ORVBGY
+YGBVRO              ORVBGY
+YGBVRO              ORVBGY
+YGBVRO              ORVBGY
+YGBVRO              ORVBGY
+EndFormation
+Hold 0.25
+
+FormationTime 0
+          GGGGGG
+       GGGBBBBBBGGG
+      GBBBVVVVVVBBBG
+    GGBBVVRRRRRRVVBBGG
+   GBBVVRROOOOOORRVVBBG
+   GBVRROOYYYYYYOORRVBG
+  GBVRROYY      YYORRVBG
+ GBBVROYY        YYORVBBG
+ GBVROY            YORVBG
+ GBVROY            YORVBG
+GBVROY              YORVBG
+GBVROY              YORVBG
+GBVROY              YORVBG
+GBVROY              YORVBG
+EndFormation
+Hold 0.25
+
+FormationTime 0
+          BBBBBB
+       BBBVVVVVVBBB
+      BVVVRRRRRRVVVB
+    BBVVRROOOOOORRVVBB
+   BVVRROOYYYYYYOORRVVB
+   BVROOYYGGGGGGYYOORVB
+  BVROOYGG      GGYOORVB
+ BVVROYGG        GGYORVVB
+ BVROYG            GYORVB
+ BVROYG            GYORVB
+BVROYG              GYORVB
+BVROYG              GYORVB
+BVROYG              GYORVB
+BVROYG              GYORVB
+EndFormation
+Hold 0.25
+
+FormationTime 0
+          VVVVVV
+       VVVRRRRRRVVV
+      VRRROOOOOORRRV
+    VVRROOYYYYYYOORRVV
+   VRROOYYGGGGGGYYOORRV
+   VROYYGGBBBBBBGGYYORV
+  VROYYGBB      BBGYYORV
+ VRROYGBB        BBGYORRV
+ VROYGB            BGYORV
+ VROYGB            BGYORV
+VROYGB              BGYORV
+VROYGB              BGYORV
+VROYGB              BGYORV
+VROYGB              BGYORV
+EndFormation
+Hold 0.25
+
+FormationTime 0
+          RRRRRR
+       RRROOOOOORRR
+      ROOOYYYYYYOOOR
+    RROOYYGGGGGGYYOORR
+   ROOYYGGBBBBBBGGYYOOR
+   ROYGGBBVVVVVVBBGGYOR
+  ROYGGBVV      VVBGGYOR
+ ROOYGBVV        VVBGYOOR
+ ROYGBV            VBGYOR
+ ROYGBV            VBGYOR
+ROYGBV              VBGYOR
+ROYGBV              VBGYOR
+ROYGBV              VBGYOR
+ROYGBV              VBGYOR
+EndFormation
+Hold 0.25
+
+FormationTime 0
+          OOOOOO
+       OOOYYYYYYOOO
+      OYYYGGGGGGYYYO
+    OOYYGGBBBBBBGGYYOO
+   OYYGGBBVVVVVVBBGGYYO
+   OYGBBVVRRRRRRVVBBGYO
+  OYGBBVRR      RRVBBGYO
+ OYYGBVRR        RRVBGYYO
+ OYGBVR            RVBGYO
+ OYGBVR            RVBGYO
+OYGBVR              RVBGYO
+OYGBVR              RVBGYO
+OYGBVR              RVBGYO
+OYGBVR              RVBGYO
+EndFormation
+Hold 0.25
+
+FormationTime 0
+          YYYYYY
+       YYYGGGGGGYYY
+      YGGGBBBBBBGGGY
+    YYGGBBVVVVVVBBGGYY
+   YGGBBVVRRRRRRVVBBGGY
+   YGBVVRROOOOOORRVVBGY
+  YGBVVROO      OORVVBGY
+ YGGBVROO        OORVBGGY
+ YGBVRO            ORVBGY
+ YGBVRO            ORVBGY
+YGBVRO              ORVBGY
+YGBVRO              ORVBGY
+YGBVRO              ORVBGY
+YGBVRO              ORVBGY
+EndFormation
+Hold 0.25
+
+FormationTime 0
+          GGGGGG
+       GGGBBBBBBGGG
+      GBBBVVVVVVBBBG
+    GGBBVVRRRRRRVVBBGG
+   GBBVVRROOOOOORRVVBBG
+   GBVRROOYYYYYYOORRVBG
+  GBVRROYY      YYORRVBG
+ GBBVROYY        YYORVBBG
+ GBVROY            YORVBG
+ GBVROY            YORVBG
+GBVROY              YORVBG
+GBVROY              YORVBG
+GBVROY              YORVBG
+GBVROY              YORVBG
+EndFormation
+Hold 0.25
+
+FormationTime 0
+          BBBBBB
+       BBBVVVVVVBBB
+      BVVVRRRRRRVVVB
+    BBVVRROOOOOORRVVBB
+   BVVRROOYYYYYYOORRVVB
+   BVROOYYGGGGGGYYOORVB
+  BVROOYGG      GGYOORVB
+ BVVROYGG        GGYORVVB
+ BVROYG            GYORVB
+ BVROYG            GYORVB
+BVROYG              GYORVB
+BVROYG              GYORVB
+BVROYG              GYORVB
+BVROYG              GYORVB
+EndFormation
+Hold 0.25
+
+FormationTime 0
+          VVVVVV
+       VVVRRRRRRVVV
+      VRRROOOOOORRRV
+    VVRROOYYYYYYOORRVV
+   VRROOYYGGGGGGYYOORRV
+   VROYYGGBBBBBBGGYYORV
+  VROYYGBB      BBGYYORV
+ VRROYGBB        BBGYORRV
+ VROYGB            BGYORV
+ VROYGB            BGYORV
+VROYGB              BGYORV
+VROYGB              BGYORV
+VROYGB              BGYORV
+VROYGB              BGYORV
+EndFormation
+Hold 0.25
+
+FormationTime 0
+          RRRRRR
+       RRROOOOOORRR
+      ROOOYYYYYYOOOR
+    RROOYYGGGGGGYYOORR
+   ROOYYGGBBBBBBGGYYOOR
+   ROYGGBBVVVVVVBBGGYOR
+  ROYGGBVV      VVBGGYOR
+ ROOYGBVV        VVBGYOOR
+ ROYGBV            VBGYOR
+ ROYGBV            VBGYOR
+ROYGBV              VBGYOR
+ROYGBV              VBGYOR
+ROYGBV              VBGYOR
+ROYGBV              VBGYOR
+EndFormation
+Hold 1
+
+Rotate Y -360 2
+
+FormationTime 1
+          RRRRRR
+       RRROOOOOORRR
+      ROOOYYYYYYOOOR
+    RROOYYGGGGGGYYOORR
+   ROOYYGGBBBBBBGGYYOOR
+   ROYGGBBVVVVVVBBGGYOR
+  ROYGGBVV      VVBGGYOR
+ ROOYGBVV        VVBGYOOR
+ ROYGBV            VBGYOR
+ ROYGBV            VBGYOR
+ROYGBV              VBGYOR
+ROYGBV              VBGYOR
+ROYGBV              VBGYOR
+ROYGBV              VBGYOR
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+EndFormation
+
+Firework Butterfly6Hatched -511.3464,102.9675,606.1847 5 0 2
+Firework Butterfly4Hatched -518.7396,93.68687,613.8795 5 1 2
+Firework Butterfly18Hatched -519.2986,102.9675,624.5358 5 2 2
+Firework Butterfly8Hatched -514.7635,93.68687,604.704 5 3 2
+Firework Butterfly16Hatched -515.3225,102.9675,615.3602 5 4 2
+Firework Butterfly15Hatched -522.7157,93.68687,623.0551 5 5 2
+Firework Butterfly6Hatched -511.3464,102.9675,606.1847 5 6 2
+Firework Butterfly4Hatched -518.7396,93.68687,613.8795 5 7 2
+Firework Butterfly18Hatched -519.2986,102.9675,624.5358 5 8 2
+Firework Butterfly8Hatched -514.7635,93.68687,604.704 5 9 2
+Firework Butterfly16Hatched -515.3225,102.9675,615.3602 5 10 2
+Firework Butterfly15Hatched -522.7157,93.68687,623.0551 5 11 2
+Firework Butterfly6Hatched -511.3464,102.9675,606.1847 5 12 2
+Firework Butterfly4Hatched -518.7396,93.68687,613.8795 5 13 2
+Firework Butterfly18Hatched -519.2986,102.9675,624.5358 5 14 2
+Firework Butterfly8Hatched -514.7635,93.68687,604.704 5 15 2
+Firework Butterfly16Hatched -515.3225,102.9675,615.3602 5 16 2
+Firework Butterfly15Hatched -522.7157,93.68687,623.0551 5 17 2
+Firework Butterfly6Hatched -511.3464,102.9675,606.1847 5 18 2
+Firework Butterfly4Hatched -518.7396,93.68687,613.8795 5 19 2
+Firework Butterfly18Hatched -519.2986,102.9675,624.5358 5 20 2
+Firework Butterfly8Hatched -514.7635,93.68687,604.704 5 21 2
+Firework Butterfly16Hatched -515.3225,102.9675,615.3602 5 22 2
+Firework Butterfly15Hatched -522.7157,93.68687,623.0551 5 23 2
+Firework Butterfly6Hatched -511.3464,102.9675,606.1847 5 24 2
+Firework Butterfly4Hatched -518.7396,93.68687,613.8795 5 25 2
+Firework Butterfly18Hatched -519.2986,102.9675,624.5358 5 26 2
+Firework Butterfly8Hatched -514.7635,93.68687,604.704 5 27 2
+Firework Butterfly16Hatched -515.3225,102.9675,615.3602 5 28 2
+Firework Butterfly15Hatched -522.7157,93.68687,623.0551 5 29 2
+Firework Butterfly6Hatched -511.3464,102.9675,606.1847 5 30 2
+Firework Butterfly4Hatched -518.7396,93.68687,613.8795 5 31 2
+Firework Butterfly18Hatched -519.2986,102.9675,624.5358 5 32 2
+Firework Butterfly8Hatched -514.7635,93.68687,604.704 5 33 2
+Firework Butterfly16Hatched -515.3225,102.9675,615.3602 5 34 2
+Firework Butterfly15Hatched -522.7157,93.68687,623.0551 5 35 2
+Firework Butterfly6Hatched -511.3464,102.9675,606.1847 5 36 2
+Firework Butterfly4Hatched -518.7396,93.68687,613.8795 5 37 2
+Firework Butterfly18Hatched -519.2986,102.9675,624.5358 5 38 2
+Firework Butterfly8Hatched -514.7635,93.68687,604.704 5 39 2
+Firework Butterfly16Hatched -515.3225,102.9675,615.3602 5 40 2
+Firework Butterfly15Hatched -522.7157,93.68687,623.0551 5 41 2
+Firework Butterfly6Hatched -511.3464,102.9675,606.1847 5 42 2
+Firework Butterfly4Hatched -518.7396,93.68687,613.8795 5 43 2
+Firework Butterfly18Hatched -519.2986,102.9675,624.5358 5 44 2
+Firework Butterfly8Hatched -514.7635,93.68687,604.704 5 45 2
+Firework Butterfly16Hatched -515.3225,102.9675,615.3602 5 46 2
+Firework Butterfly15Hatched -522.7157,93.68687,623.0551 5 47 2
+Firework Butterfly6Hatched -511.3464,102.9675,606.1847 5 48 2
+Firework Butterfly4Hatched -518.7396,93.68687,613.8795 5 49 2
+Firework Butterfly18Hatched -519.2986,102.9675,624.5358 5 50 2
+Firework Butterfly8Hatched -514.7635,93.68687,604.704 5 51 2
+Firework Butterfly16Hatched -515.3225,102.9675,615.3602 5 52 2
+Firework Butterfly15Hatched -522.7157,93.68687,623.0551 5 53 2
+Firework Butterfly6Hatched -511.3464,102.9675,606.1847 5 54 2
+Firework Butterfly4Hatched -518.7396,93.68687,613.8795 5 55 2
+Firework Butterfly18Hatched -519.2986,102.9675,624.5358 5 56 2
+Firework Butterfly8Hatched -514.7635,93.68687,604.704 5 57 2
+Firework Butterfly16Hatched -515.3225,102.9675,615.3602 5 58 2
+Firework Butterfly15Hatched -522.7157,93.68687,623.0551 5 59 2
+
+# Spiral [object] [position] [radius] [numPoints] [numObjects] [distY] [spinRate] [riseRate] [riseMax] [delayStartSeconds] [actionSeconds]
+# Rising spiral stairs
+
+Spiral Stairs -707,-280,646 13.527 16 70 4.507 -100 40 330 0 30
+Spiral Stairs -624,-280,453 13.527 16 70 4.507 -100 40 330 0 30
+
+# Rocket [rocketType] [position] [rotation] [delayStartSeconds] [speed] [acceleration]
+# Rockets over rocks
+
+Rocket RocketBiomass1 -1147.278,96.20653,831.9465 342.0702,16.73983,273.9922 8 100 10
+Rocket RocketBiomass1 -789.431,96.20653,6.146301 64.56158,303.1946,278.8709 8 100 10
+Rocket RocketBiomass1 -1139.326,96.20653,813.5954 342.0702,16.73983,273.9922 8 100 10
+Rocket RocketBiomass1 -797.3832,96.20653,24.49742 64.56158,303.1946,278.8709 8 100 10
+Rocket RocketBiomass1 -1131.374,96.20653,795.2443 342.0702,16.73983,273.9922 8 100 10
+Rocket RocketBiomass1 -805.3353,96.20653,42.84854 64.56158,303.1946,278.8709 8 100 10
+
+FormationTime 0
+LLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLL
+L                              L
+L                              L
+L  BBBB   BBBB    BBB   BBBB   L
+L  B   B  B   B  B   B  B   B  L
+L  BBBB   BBBB   BBBBB  B   B  L
+L  B   B  B   B  B   B  B   B  L
+L  BBBB   B   B  B   B  BBBB   L
+L                              L
+L         WWWWW   WWWW         L
+L           W    W             L
+L           W     WWW          L
+L           W        W         L
+L         WWWWW  WWWW          L
+L                              L
+L  VVVV   VVVV    VVV   VVVV   L
+L  V   V  V   V  V   V  V   V  L
+L  VVVV   VVVV   VVVVV  V   V  L
+L  V   V  V   V  V   V  V   V  L
+L  VVVV   V   V  V   V  VVVV   L
+L                              L
+L                              L
+LLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLL
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+EndFormation
+
+FormationTime 3
+LLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLL
+L                              L
+L                              L
+L  BBBB   BBBB    BBB   BBBB   L
+L  B   B  B   B  B   B  B   B  L
+L  BBBB   BBBB   BBBBB  B   B  L
+L  B   B  B   B  B   B  B   B  L
+L  BBBB   B   B  B   B  BBBB   L
+L                              L
+L         WWWWW   WWWW         L
+L           W    W             L
+L           W     WWW          L
+L           W        W         L
+L         WWWWW  WWWW          L
+L                              L
+L  VVVV   VVVV    VVV   VVVV   L
+L  V   V  V   V  V   V  V   V  L
+L  VVVV   VVVV   VVVVV  V   V  L
+L  V   V  V   V  V   V  V   V  L
+L  VVVV   V   V  V   V  VVVV   L
+L                              L
+L                              L
+LLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLL
+EndFormation
+
+FormationTime 0
+WBWBWBWBWBWBWBWBWBWBWBWBWBWBWBWB
+B                              W
+W                              B
+B  BBBB   BBBB    BBB   BBBB   W
+W  B   B  B   B  B   B  B   B  B
+B  BBBB   BBBB   BBBBB  B   B  W
+W  B   B  B   B  B   B  B   B  B
+B  BBBB   B   B  B   B  BBBB   W
+W                              B
+B         WWWWW   WWWW         W
+W           W    W             B
+B           W     WWW          W
+W           W        W         B
+B         WWWWW  WWWW          W
+W                              B
+B  VVVV   VVVV    VVV   VVVV   W
+W  V   V  V   V  V   V  V   V  B
+B  VVVV   VVVV   VVVVV  V   V  W
+W  V   V  V   V  V   V  V   V  B
+B  VVVV   V   V  V   V  VVVV   W
+W                              B
+B                              W
+WBWBWBWBWBWBWBWBWBWBWBWBWBWBWBWB
+EndFormation
+Hold 0.5
+
+FormationTime 0
+BWBWBWBWBWBWBWBWBWBWBWBWBWBWBWBW
+W                              B
+B                              W
+W  BBBB   BBBB    BBB   BBBB   B
+B  B   B  B   B  B   B  B   B  W
+W  BBBB   BBBB   BBBBB  B   B  B
+B  B   B  B   B  B   B  B   B  W
+W  BBBB   B   B  B   B  BBBB   B
+B                              W
+W         WWWWW   WWWW         B
+B           W    W             W
+W           W     WWW          B
+B           W        W         W
+W         WWWWW  WWWW          B
+B                              W
+W  VVVV   VVVV    VVV   VVVV   B
+B  V   V  V   V  V   V  V   V  W
+W  VVVV   VVVV   VVVVV  V   V  B
+B  V   V  V   V  V   V  V   V  W
+W  VVVV   V   V  V   V  VVVV   B
+B                              W
+W                              B
+BWBWBWBWBWBWBWBWBWBWBWBWBWBWBWBW
+EndFormation
+Hold 0.5
+
+FormationTime 0
+WBWBWBWBWBWBWBWBWBWBWBWBWBWBWBWB
+B                              W
+W                              B
+B  BBBB   BBBB    BBB   BBBB   W
+W  B   B  B   B  B   B  B   B  B
+B  BBBB   BBBB   BBBBB  B   B  W
+W  B   B  B   B  B   B  B   B  B
+B  BBBB   B   B  B   B  BBBB   W
+W                              B
+B         WWWWW   WWWW         W
+W           W    W             B
+B           W     WWW          W
+W           W        W         B
+B         WWWWW  WWWW          W
+W                              B
+B  VVVV   VVVV    VVV   VVVV   W
+W  V   V  V   V  V   V  V   V  B
+B  VVVV   VVVV   VVVVV  V   V  W
+W  V   V  V   V  V   V  V   V  B
+B  VVVV   V   V  V   V  VVVV   W
+W                              B
+B                              W
+WBWBWBWBWBWBWBWBWBWBWBWBWBWBWBWB
+EndFormation
+Hold 0.5
+
+FormationTime 0
+BWBWBWBWBWBWBWBWBWBWBWBWBWBWBWBW
+W                              B
+B                              W
+W  BBBB   BBBB    BBB   BBBB   B
+B  B   B  B   B  B   B  B   B  W
+W  BBBB   BBBB   BBBBB  B   B  B
+B  B   B  B   B  B   B  B   B  W
+W  BBBB   B   B  B   B  BBBB   B
+B                              W
+W         WWWWW   WWWW         B
+B           W    W             W
+W           W     WWW          B
+B           W        W         W
+W         WWWWW  WWWW          B
+B                              W
+W  VVVV   VVVV    VVV   VVVV   B
+B  V   V  V   V  V   V  V   V  W
+W  VVVV   VVVV   VVVVV  V   V  B
+B  V   V  V   V  V   V  V   V  W
+W  VVVV   V   V  V   V  VVVV   B
+B                              W
+W                              B
+BWBWBWBWBWBWBWBWBWBWBWBWBWBWBWBW
+EndFormation
+Hold 0.5
+
+FormationTime 0
+WBWBWBWBWBWBWBWBWBWBWBWBWBWBWBWB
+B                              W
+W                              B
+B  BBBB   BBBB    BBB   BBBB   W
+W  B   B  B   B  B   B  B   B  B
+B  BBBB   BBBB   BBBBB  B   B  W
+W  B   B  B   B  B   B  B   B  B
+B  BBBB   B   B  B   B  BBBB   W
+W                              B
+B         WWWWW   WWWW         W
+W           W    W             B
+B           W     WWW          W
+W           W        W         B
+B         WWWWW  WWWW          W
+W                              B
+B  VVVV   VVVV    VVV   VVVV   W
+W  V   V  V   V  V   V  V   V  B
+B  VVVV   VVVV   VVVVV  V   V  W
+W  V   V  V   V  V   V  V   V  B
+B  VVVV   V   V  V   V  VVVV   W
+W                              B
+B                              W
+WBWBWBWBWBWBWBWBWBWBWBWBWBWBWBWB
+EndFormation
+Hold 0.5
+
+FormationTime 0
+BWBWBWBWBWBWBWBWBWBWBWBWBWBWBWBW
+W                              B
+B                              W
+W  BBBB   BBBB    BBB   BBBB   B
+B  B   B  B   B  B   B  B   B  W
+W  BBBB   BBBB   BBBBB  B   B  B
+B  B   B  B   B  B   B  B   B  W
+W  BBBB   B   B  B   B  BBBB   B
+B                              W
+W         WWWWW   WWWW         B
+B           W    W             W
+W           W     WWW          B
+B           W        W         W
+W         WWWWW  WWWW          B
+B                              W
+W  VVVV   VVVV    VVV   VVVV   B
+B  V   V  V   V  V   V  V   V  W
+W  VVVV   VVVV   VVVVV  V   V  B
+B  V   V  V   V  V   V  V   V  W
+W  VVVV   V   V  V   V  VVVV   B
+B                              W
+W                              B
+BWBWBWBWBWBWBWBWBWBWBWBWBWBWBWBW
+EndFormation
+Hold 0.5
+
+FormationTime 0
+WBWBWBWBWBWBWBWBWBWBWBWBWBWBWBWB
+B                              W
+W                              B
+B  BBBB   BBBB    BBB   BBBB   W
+W  B   B  B   B  B   B  B   B  B
+B  BBBB   BBBB   BBBBB  B   B  W
+W  B   B  B   B  B   B  B   B  B
+B  BBBB   B   B  B   B  BBBB   W
+W                              B
+B         WWWWW   WWWW         W
+W           W    W             B
+B           W     WWW          W
+W           W        W         B
+B         WWWWW  WWWW          W
+W                              B
+B  VVVV   VVVV    VVV   VVVV   W
+W  V   V  V   V  V   V  V   V  B
+B  VVVV   VVVV   VVVVV  V   V  W
+W  V   V  V   V  V   V  V   V  B
+B  VVVV   V   V  V   V  VVVV   W
+W                              B
+B                              W
+WBWBWBWBWBWBWBWBWBWBWBWBWBWBWBWB
+EndFormation
+Hold 0.5
+
+FormationTime 0
+BWBWBWBWBWBWBWBWBWBWBWBWBWBWBWBW
+W                              B
+B                              W
+W  BBBB   BBBB    BBB   BBBB   B
+B  B   B  B   B  B   B  B   B  W
+W  BBBB   BBBB   BBBBB  B   B  B
+B  B   B  B   B  B   B  B   B  W
+W  BBBB   B   B  B   B  BBBB   B
+B                              W
+W         WWWWW   WWWW         B
+B           W    W             W
+W           W     WWW          B
+B           W        W         W
+W         WWWWW  WWWW          B
+B                              W
+W  VVVV   VVVV    VVV   VVVV   B
+B  V   V  V   V  V   V  V   V  W
+W  VVVV   VVVV   VVVVV  V   V  B
+B  V   V  V   V  V   V  V   V  W
+W  VVVV   V   V  V   V  VVVV   B
+B                              W
+W                              B
+BWBWBWBWBWBWBWBWBWBWBWBWBWBWBWBW
+EndFormation
+Hold 0.5
+
+FormationTime 0
+WBWBWBWBWBWBWBWBWBWBWBWBWBWBWBWB
+B                              W
+W                              B
+B  BBBB   BBBB    BBB   BBBB   W
+W  B   B  B   B  B   B  B   B  B
+B  BBBB   BBBB   BBBBB  B   B  W
+W  B   B  B   B  B   B  B   B  B
+B  BBBB   B   B  B   B  BBBB   W
+W                              B
+B         WWWWW   WWWW         W
+W           W    W             B
+B           W     WWW          W
+W           W        W         B
+B         WWWWW  WWWW          W
+W                              B
+B  VVVV   VVVV    VVV   VVVV   W
+W  V   V  V   V  V   V  V   V  B
+B  VVVV   VVVV   VVVVV  V   V  W
+W  V   V  V   V  V   V  V   V  B
+B  VVVV   V   V  V   V  VVVV   W
+W                              B
+B                              W
+WBWBWBWBWBWBWBWBWBWBWBWBWBWBWBWB
+EndFormation
+Hold 0.5
+
+FormationTime 0
+BWBWBWBWBWBWBWBWBWBWBWBWBWBWBWBW
+W                              B
+B                              W
+W  BBBB   BBBB    BBB   BBBB   B
+B  B   B  B   B  B   B  B   B  W
+W  BBBB   BBBB   BBBBB  B   B  B
+B  B   B  B   B  B   B  B   B  W
+W  BBBB   B   B  B   B  BBBB   B
+B                              W
+W         WWWWW   WWWW         B
+B           W    W             W
+W           W     WWW          B
+B           W        W         W
+W         WWWWW  WWWW          B
+B                              W
+W  VVVV   VVVV    VVV   VVVV   B
+B  V   V  V   V  V   V  V   V  W
+W  VVVV   VVVV   VVVVV  V   V  B
+B  V   V  V   V  V   V  V   V  W
+W  VVVV   V   V  V   V  VVVV   B
+B                              W
+W                              B
+BWBWBWBWBWBWBWBWBWBWBWBWBWBWBWBW
+EndFormation
+Hold 0.5
+
+FormationTime 0
+WBWBWBWBWBWBWBWBWBWBWBWBWBWBWBWB
+B                              W
+W                              B
+B  BBBB   BBBB    BBB   BBBB   W
+W  B   B  B   B  B   B  B   B  B
+B  BBBB   BBBB   BBBBB  B   B  W
+W  B   B  B   B  B   B  B   B  B
+B  BBBB   B   B  B   B  BBBB   W
+W                              B
+B         WWWWW   WWWW         W
+W           W    W             B
+B           W     WWW          W
+W           W        W         B
+B         WWWWW  WWWW          W
+W                              B
+B  VVVV   VVVV    VVV   VVVV   W
+W  V   V  V   V  V   V  V   V  B
+B  VVVV   VVVV   VVVVV  V   V  W
+W  V   V  V   V  V   V  V   V  B
+B  VVVV   V   V  V   V  VVVV   W
+W                              B
+B                              W
+WBWBWBWBWBWBWBWBWBWBWBWBWBWBWBWB
+EndFormation
+Hold 0.5
+
+FormationTime 0
+BWBWBWBWBWBWBWBWBWBWBWBWBWBWBWBW
+W                              B
+B                              W
+W  BBBB   BBBB    BBB   BBBB   B
+B  B   B  B   B  B   B  B   B  W
+W  BBBB   BBBB   BBBBB  B   B  B
+B  B   B  B   B  B   B  B   B  W
+W  BBBB   B   B  B   B  BBBB   B
+B                              W
+W         WWWWW   WWWW         B
+B           W    W             W
+W           W     WWW          B
+B           W        W         W
+W         WWWWW  WWWW          B
+B                              W
+W  VVVV   VVVV    VVV   VVVV   B
+B  V   V  V   V  V   V  V   V  W
+W  VVVV   VVVV   VVVVV  V   V  B
+B  V   V  V   V  V   V  V   V  W
+W  VVVV   V   V  V   V  VVVV   B
+B                              W
+W                              B
+BWBWBWBWBWBWBWBWBWBWBWBWBWBWBWBW
+EndFormation
+Hold 0.5
+
+FormationTime 0
+WBWBWBWBWBWBWBWBWBWBWBWBWBWBWBWB
+B                              W
+W                              B
+B  BBBB   BBBB    BBB   BBBB   W
+W  B   B  B   B  B   B  B   B  B
+B  BBBB   BBBB   BBBBB  B   B  W
+W  B   B  B   B  B   B  B   B  B
+B  BBBB   B   B  B   B  BBBB   W
+W                              B
+B         WWWWW   WWWW         W
+W           W    W             B
+B           W     WWW          W
+W           W        W         B
+B         WWWWW  WWWW          W
+W                              B
+B  VVVV   VVVV    VVV   VVVV   W
+W  V   V  V   V  V   V  V   V  B
+B  VVVV   VVVV   VVVVV  V   V  W
+W  V   V  V   V  V   V  V   V  B
+B  VVVV   V   V  V   V  VVVV   W
+W                              B
+B                              W
+WBWBWBWBWBWBWBWBWBWBWBWBWBWBWBWB
+EndFormation
+Hold 0.5
+
+FormationTime 0
+BWBWBWBWBWBWBWBWBWBWBWBWBWBWBWBW
+W                              B
+B                              W
+W  BBBB   BBBB    BBB   BBBB   B
+B  B   B  B   B  B   B  B   B  W
+W  BBBB   BBBB   BBBBB  B   B  B
+B  B   B  B   B  B   B  B   B  W
+W  BBBB   B   B  B   B  BBBB   B
+B                              W
+W         WWWWW   WWWW         B
+B           W    W             W
+W           W     WWW          B
+B           W        W         W
+W         WWWWW  WWWW          B
+B                              W
+W  VVVV   VVVV    VVV   VVVV   B
+B  V   V  V   V  V   V  V   V  W
+W  VVVV   VVVV   VVVVV  V   V  B
+B  V   V  V   V  V   V  V   V  W
+W  VVVV   V   V  V   V  VVVV   B
+B                              W
+W                              B
+BWBWBWBWBWBWBWBWBWBWBWBWBWBWBWBW
+EndFormation
+Hold 0.5
+
+FormationTime 0
+WBWBWBWBWBWBWBWBWBWBWBWBWBWBWBWB
+B                              W
+W                              B
+B  BBBB   BBBB    BBB   BBBB   W
+W  B   B  B   B  B   B  B   B  B
+B  BBBB   BBBB   BBBBB  B   B  W
+W  B   B  B   B  B   B  B   B  B
+B  BBBB   B   B  B   B  BBBB   W
+W                              B
+B         WWWWW   WWWW         W
+W           W    W             B
+B           W     WWW          W
+W           W        W         B
+B         WWWWW  WWWW          W
+W                              B
+B  VVVV   VVVV    VVV   VVVV   W
+W  V   V  V   V  V   V  V   V  B
+B  VVVV   VVVV   VVVVV  V   V  W
+W  V   V  V   V  V   V  V   V  B
+B  VVVV   V   V  V   V  VVVV   W
+W                              B
+B                              W
+WBWBWBWBWBWBWBWBWBWBWBWBWBWBWBWB
+EndFormation
+Hold 0.5
+
+FormationTime 0
+BWBWBWBWBWBWBWBWBWBWBWBWBWBWBWBW
+W                              B
+B                              W
+W  BBBB   BBBB    BBB   BBBB   B
+B  B   B  B   B  B   B  B   B  W
+W  BBBB   BBBB   BBBBB  B   B  B
+B  B   B  B   B  B   B  B   B  W
+W  BBBB   B   B  B   B  BBBB   B
+B                              W
+W         WWWWW   WWWW         B
+B           W    W             W
+W           W     WWW          B
+B           W        W         W
+W         WWWWW  WWWW          B
+B                              W
+W  VVVV   VVVV    VVV   VVVV   B
+B  V   V  V   V  V   V  V   V  W
+W  VVVV   VVVV   VVVVV  V   V  B
+B  V   V  V   V  V   V  V   V  W
+W  VVVV   V   V  V   V  VVVV   B
+B                              W
+W                              B
+BWBWBWBWBWBWBWBWBWBWBWBWBWBWBWBW
+EndFormation
+Hold 0.5
+
+FormationTime 0
+WBWBWBWBWBWBWBWBWBWBWBWBWBWBWBWB
+B                              W
+W                              B
+B  BBBB   BBBB    BBB   BBBB   W
+W  B   B  B   B  B   B  B   B  B
+B  BBBB   BBBB   BBBBB  B   B  W
+W  B   B  B   B  B   B  B   B  B
+B  BBBB   B   B  B   B  BBBB   W
+W                              B
+B         WWWWW   WWWW         W
+W           W    W             B
+B           W     WWW          W
+W           W        W         B
+B         WWWWW  WWWW          W
+W                              B
+B  VVVV   VVVV    VVV   VVVV   W
+W  V   V  V   V  V   V  V   V  B
+B  VVVV   VVVV   VVVVV  V   V  W
+W  V   V  V   V  V   V  V   V  B
+B  VVVV   V   V  V   V  VVVV   W
+W                              B
+B                              W
+WBWBWBWBWBWBWBWBWBWBWBWBWBWBWBWB
+EndFormation
+Hold 0.5
+
+FormationTime 0
+BWBWBWBWBWBWBWBWBWBWBWBWBWBWBWBW
+W                              B
+B                              W
+W  BBBB   BBBB    BBB   BBBB   B
+B  B   B  B   B  B   B  B   B  W
+W  BBBB   BBBB   BBBBB  B   B  B
+B  B   B  B   B  B   B  B   B  W
+W  BBBB   B   B  B   B  BBBB   B
+B                              W
+W         WWWWW   WWWW         B
+B           W    W             W
+W           W     WWW          B
+B           W        W         W
+W         WWWWW  WWWW          B
+B                              W
+W  VVVV   VVVV    VVV   VVVV   B
+B  V   V  V   V  V   V  V   V  W
+W  VVVV   VVVV   VVVVV  V   V  B
+B  V   V  V   V  V   V  V   V  W
+W  VVVV   V   V  V   V  VVVV   B
+B                              W
+W                              B
+BWBWBWBWBWBWBWBWBWBWBWBWBWBWBWBW
+EndFormation
+Hold 0.5
+
+FormationTime 0
+WBWBWBWBWBWBWBWBWBWBWBWBWBWBWBWB
+B                              W
+W                              B
+B  BBBB   BBBB    BBB   BBBB   W
+W  B   B  B   B  B   B  B   B  B
+B  BBBB   BBBB   BBBBB  B   B  W
+W  B   B  B   B  B   B  B   B  B
+B  BBBB   B   B  B   B  BBBB   W
+W                              B
+B         WWWWW   WWWW         W
+W           W    W             B
+B           W     WWW          W
+W           W        W         B
+B         WWWWW  WWWW          W
+W                              B
+B  VVVV   VVVV    VVV   VVVV   W
+W  V   V  V   V  V   V  V   V  B
+B  VVVV   VVVV   VVVVV  V   V  W
+W  V   V  V   V  V   V  V   V  B
+B  VVVV   V   V  V   V  VVVV   W
+W                              B
+B                              W
+WBWBWBWBWBWBWBWBWBWBWBWBWBWBWBWB
+EndFormation
+Hold 0.5
+
+FormationTime 0
+BWBWBWBWBWBWBWBWBWBWBWBWBWBWBWBW
+W                              B
+B                              W
+W  BBBB   BBBB    BBB   BBBB   B
+B  B   B  B   B  B   B  B   B  W
+W  BBBB   BBBB   BBBBB  B   B  B
+B  B   B  B   B  B   B  B   B  W
+W  BBBB   B   B  B   B  BBBB   B
+B                              W
+W         WWWWW   WWWW         B
+B           W    W             W
+W           W     WWW          B
+B           W        W         W
+W         WWWWW  WWWW          B
+B                              W
+W  VVVV   VVVV    VVV   VVVV   B
+B  V   V  V   V  V   V  V   V  W
+W  VVVV   VVVV   VVVVV  V   V  B
+B  V   V  V   V  V   V  V   V  W
+W  VVVV   V   V  V   V  VVVV   B
+B                              W
+W                              B
+BWBWBWBWBWBWBWBWBWBWBWBWBWBWBWBW
+EndFormation
+Hold 0.5
+
+FormationTime 0
+WBWBWBWBWBWBWBWBWBWBWBWBWBWBWBWB
+B                              W
+W                              B
+B  BBBB   BBBB    BBB   BBBB   W
+W  B   B  B   B  B   B  B   B  B
+B  BBBB   BBBB   BBBBB  B   B  W
+W  B   B  B   B  B   B  B   B  B
+B  BBBB   B   B  B   B  BBBB   W
+W                              B
+B         WWWWW   WWWW         W
+W           W    W             B
+B           W     WWW          W
+W           W        W         B
+B         WWWWW  WWWW          W
+W                              B
+B  VVVV   VVVV    VVV   VVVV   W
+W  V   V  V   V  V   V  V   V  B
+B  VVVV   VVVV   VVVVV  V   V  W
+W  V   V  V   V  V   V  V   V  B
+B  VVVV   V   V  V   V  VVVV   W
+W                              B
+B                              W
+WBWBWBWBWBWBWBWBWBWBWBWBWBWBWBWB
+EndFormation
+Hold 0.5
+
+FormationTime 0
+BWBWBWBWBWBWBWBWBWBWBWBWBWBWBWBW
+W                              B
+B                              W
+W  BBBB   BBBB    BBB   BBBB   B
+B  B   B  B   B  B   B  B   B  W
+W  BBBB   BBBB   BBBBB  B   B  B
+B  B   B  B   B  B   B  B   B  W
+W  BBBB   B   B  B   B  BBBB   B
+B                              W
+W         WWWWW   WWWW         B
+B           W    W             W
+W           W     WWW          B
+B           W        W         W
+W         WWWWW  WWWW          B
+B                              W
+W  VVVV   VVVV    VVV   VVVV   B
+B  V   V  V   V  V   V  V   V  W
+W  VVVV   VVVV   VVVVV  V   V  B
+B  V   V  V   V  V   V  V   V  W
+W  VVVV   V   V  V   V  VVVV   B
+B                              W
+W                              B
+BWBWBWBWBWBWBWBWBWBWBWBWBWBWBWBW
+EndFormation
+Hold 0.5
+
+FormationTime 0
+WBWBWBWBWBWBWBWBWBWBWBWBWBWBWBWB
+B                              W
+W                              B
+B  BBBB   BBBB    BBB   BBBB   W
+W  B   B  B   B  B   B  B   B  B
+B  BBBB   BBBB   BBBBB  B   B  W
+W  B   B  B   B  B   B  B   B  B
+B  BBBB   B   B  B   B  BBBB   W
+W                              B
+B         WWWWW   WWWW         W
+W           W    W             B
+B           W     WWW          W
+W           W        W         B
+B         WWWWW  WWWW          W
+W                              B
+B  VVVV   VVVV    VVV   VVVV   W
+W  V   V  V   V  V   V  V   V  B
+B  VVVV   VVVV   VVVVV  V   V  W
+W  V   V  V   V  V   V  V   V  B
+B  VVVV   V   V  V   V  VVVV   W
+W                              B
+B                              W
+WBWBWBWBWBWBWBWBWBWBWBWBWBWBWBWB
+EndFormation
+Hold 0.5
+
+FormationTime 0
+BWBWBWBWBWBWBWBWBWBWBWBWBWBWBWBW
+W                              B
+B                              W
+W  BBBB   BBBB    BBB   BBBB   B
+B  B   B  B   B  B   B  B   B  W
+W  BBBB   BBBB   BBBBB  B   B  B
+B  B   B  B   B  B   B  B   B  W
+W  BBBB   B   B  B   B  BBBB   B
+B                              W
+W         WWWWW   WWWW         B
+B           W    W             W
+W           W     WWW          B
+B           W        W         W
+W         WWWWW  WWWW          B
+B                              W
+W  VVVV   VVVV    VVV   VVVV   B
+B  V   V  V   V  V   V  V   V  W
+W  VVVV   VVVV   VVVVV  V   V  B
+B  V   V  V   V  V   V  V   V  W
+W  VVVV   V   V  V   V  VVVV   B
+B                              W
+W                              B
+BWBWBWBWBWBWBWBWBWBWBWBWBWBWBWBW
+EndFormation
+Hold 0.5
+
+FormationTime 0
+WBWBWBWBWBWBWBWBWBWBWBWBWBWBWBWB
+B                              W
+W                              B
+B  BBBB   BBBB    BBB   BBBB   W
+W  B   B  B   B  B   B  B   B  B
+B  BBBB   BBBB   BBBBB  B   B  W
+W  B   B  B   B  B   B  B   B  B
+B  BBBB   B   B  B   B  BBBB   W
+W                              B
+B         WWWWW   WWWW         W
+W           W    W             B
+B           W     WWW          W
+W           W        W         B
+B         WWWWW  WWWW          W
+W                              B
+B  VVVV   VVVV    VVV   VVVV   W
+W  V   V  V   V  V   V  V   V  B
+B  VVVV   VVVV   VVVVV  V   V  W
+W  V   V  V   V  V   V  V   V  B
+B  VVVV   V   V  V   V  VVVV   W
+W                              B
+B                              W
+WBWBWBWBWBWBWBWBWBWBWBWBWBWBWBWB
+EndFormation
+Hold 0.5
+
+FormationTime 0
+BWBWBWBWBWBWBWBWBWBWBWBWBWBWBWBW
+W                              B
+B                              W
+W  BBBB   BBBB    BBB   BBBB   B
+B  B   B  B   B  B   B  B   B  W
+W  BBBB   BBBB   BBBBB  B   B  B
+B  B   B  B   B  B   B  B   B  W
+W  BBBB   B   B  B   B  BBBB   B
+B                              W
+W         WWWWW   WWWW         B
+B           W    W             W
+W           W     WWW          B
+B           W        W         W
+W         WWWWW  WWWW          B
+B                              W
+W  VVVV   VVVV    VVV   VVVV   B
+B  V   V  V   V  V   V  V   V  W
+W  VVVV   VVVV   VVVVV  V   V  B
+B  V   V  V   V  V   V  V   V  W
+W  VVVV   V   V  V   V  VVVV   B
+B                              W
+W                              B
+BWBWBWBWBWBWBWBWBWBWBWBWBWBWBWBW
+EndFormation
+Hold 0.5
+
+FormationTime 0
+WBWBWBWBWBWBWBWBWBWBWBWBWBWBWBWB
+B                              W
+W                              B
+B  BBBB   BBBB    BBB   BBBB   W
+W  B   B  B   B  B   B  B   B  B
+B  BBBB   BBBB   BBBBB  B   B  W
+W  B   B  B   B  B   B  B   B  B
+B  BBBB   B   B  B   B  BBBB   W
+W                              B
+B         WWWWW   WWWW         W
+W           W    W             B
+B           W     WWW          W
+W           W        W         B
+B         WWWWW  WWWW          W
+W                              B
+B  VVVV   VVVV    VVV   VVVV   W
+W  V   V  V   V  V   V  V   V  B
+B  VVVV   VVVV   VVVVV  V   V  W
+W  V   V  V   V  V   V  V   V  B
+B  VVVV   V   V  V   V  VVVV   W
+W                              B
+B                              W
+WBWBWBWBWBWBWBWBWBWBWBWBWBWBWBWB
+EndFormation
+Hold 0.5
+
+FormationTime 0
+BWBWBWBWBWBWBWBWBWBWBWBWBWBWBWBW
+W                              B
+B                              W
+W  BBBB   BBBB    BBB   BBBB   B
+B  B   B  B   B  B   B  B   B  W
+W  BBBB   BBBB   BBBBB  B   B  B
+B  B   B  B   B  B   B  B   B  W
+W  BBBB   B   B  B   B  BBBB   B
+B                              W
+W         WWWWW   WWWW         B
+B           W    W             W
+W           W     WWW          B
+B           W        W         W
+W         WWWWW  WWWW          B
+B                              W
+W  VVVV   VVVV    VVV   VVVV   B
+B  V   V  V   V  V   V  V   V  W
+W  VVVV   VVVV   VVVVV  V   V  B
+B  V   V  V   V  V   V  V   V  W
+W  VVVV   V   V  V   V  VVVV   B
+B                              W
+W                              B
+BWBWBWBWBWBWBWBWBWBWBWBWBWBWBWBW
+EndFormation
+Hold 0.5
+
+FormationTime 0
+WBWBWBWBWBWBWBWBWBWBWBWBWBWBWBWB
+B                              W
+W                              B
+B  BBBB   BBBB    BBB   BBBB   W
+W  B   B  B   B  B   B  B   B  B
+B  BBBB   BBBB   BBBBB  B   B  W
+W  B   B  B   B  B   B  B   B  B
+B  BBBB   B   B  B   B  BBBB   W
+W                              B
+B         WWWWW   WWWW         W
+W           W    W             B
+B           W     WWW          W
+W           W        W         B
+B         WWWWW  WWWW          W
+W                              B
+B  VVVV   VVVV    VVV   VVVV   W
+W  V   V  V   V  V   V  V   V  B
+B  VVVV   VVVV   VVVVV  V   V  W
+W  V   V  V   V  V   V  V   V  B
+B  VVVV   V   V  V   V  VVVV   W
+W                              B
+B                              W
+WBWBWBWBWBWBWBWBWBWBWBWBWBWBWBWB
+EndFormation
+Hold 0.5
+
+FormationTime 0
+BWBWBWBWBWBWBWBWBWBWBWBWBWBWBWBW
+W                              B
+B                              W
+W  BBBB   BBBB    BBB   BBBB   B
+B  B   B  B   B  B   B  B   B  W
+W  BBBB   BBBB   BBBBB  B   B  B
+B  B   B  B   B  B   B  B   B  W
+W  BBBB   B   B  B   B  BBBB   B
+B                              W
+W         WWWWW   WWWW         B
+B           W    W             W
+W           W     WWW          B
+B           W        W         W
+W         WWWWW  WWWW          B
+B                              W
+W  VVVV   VVVV    VVV   VVVV   B
+B  V   V  V   V  V   V  V   V  W
+W  VVVV   VVVV   VVVVV  V   V  B
+B  V   V  V   V  V   V  V   V  W
+W  VVVV   V   V  V   V  VVVV   B
+B                              W
+W                              B
+BWBWBWBWBWBWBWBWBWBWBWBWBWBWBWBW
+EndFormation
+Hold 0.5
+
+FormationTime 0
+WBWBWBWBWBWBWBWBWBWBWBWBWBWBWBWB
+B                              W
+W                              B
+B  BBBB   BBBB    BBB   BBBB   W
+W  B   B  B   B  B   B  B   B  B
+B  BBBB   BBBB   BBBBB  B   B  W
+W  B   B  B   B  B   B  B   B  B
+B  BBBB   B   B  B   B  BBBB   W
+W                              B
+B         WWWWW   WWWW         W
+W           W    W             B
+B           W     WWW          W
+W           W        W         B
+B         WWWWW  WWWW          W
+W                              B
+B  VVVV   VVVV    VVV   VVVV   W
+W  V   V  V   V  V   V  V   V  B
+B  VVVV   VVVV   VVVVV  V   V  W
+W  V   V  V   V  V   V  V   V  B
+B  VVVV   V   V  V   V  VVVV   W
+W                              B
+B                              W
+WBWBWBWBWBWBWBWBWBWBWBWBWBWBWBWB
+EndFormation
+Hold 0.5
+
+FormationTime 0
+BWBWBWBWBWBWBWBWBWBWBWBWBWBWBWBW
+W                              B
+B                              W
+W  BBBB   BBBB    BBB   BBBB   B
+B  B   B  B   B  B   B  B   B  W
+W  BBBB   BBBB   BBBBB  B   B  B
+B  B   B  B   B  B   B  B   B  W
+W  BBBB   B   B  B   B  BBBB   B
+B                              W
+W         WWWWW   WWWW         B
+B           W    W             W
+W           W     WWW          B
+B           W        W         W
+W         WWWWW  WWWW          B
+B                              W
+W  VVVV   VVVV    VVV   VVVV   B
+B  V   V  V   V  V   V  V   V  W
+W  VVVV   VVVV   VVVVV  V   V  B
+B  V   V  V   V  V   V  V   V  W
+W  VVVV   V   V  V   V  VVVV   B
+B                              W
+W                              B
+BWBWBWBWBWBWBWBWBWBWBWBWBWBWBWBW
+EndFormation
+Hold 0.5
+
+FormationTime 0
+WBWBWBWBWBWBWBWBWBWBWBWBWBWBWBWB
+B                              W
+W                              B
+B  BBBB   BBBB    BBB   BBBB   W
+W  B   B  B   B  B   B  B   B  B
+B  BBBB   BBBB   BBBBB  B   B  W
+W  B   B  B   B  B   B  B   B  B
+B  BBBB   B   B  B   B  BBBB   W
+W                              B
+B         WWWWW   WWWW         W
+W           W    W             B
+B           W     WWW          W
+W           W        W         B
+B         WWWWW  WWWW          W
+W                              B
+B  VVVV   VVVV    VVV   VVVV   W
+W  V   V  V   V  V   V  V   V  B
+B  VVVV   VVVV   VVVVV  V   V  W
+W  V   V  V   V  V   V  V   V  B
+B  VVVV   V   V  V   V  VVVV   W
+W                              B
+B                              W
+WBWBWBWBWBWBWBWBWBWBWBWBWBWBWBWB
+EndFormation
+Hold 0.5
+
+FormationTime 0
+BWBWBWBWBWBWBWBWBWBWBWBWBWBWBWBW
+W                              B
+B                              W
+W  BBBB   BBBB    BBB   BBBB   B
+B  B   B  B   B  B   B  B   B  W
+W  BBBB   BBBB   BBBBB  B   B  B
+B  B   B  B   B  B   B  B   B  W
+W  BBBB   B   B  B   B  BBBB   B
+B                              W
+W         WWWWW   WWWW         B
+B           W    W             W
+W           W     WWW          B
+B           W        W         W
+W         WWWWW  WWWW          B
+B                              W
+W  VVVV   VVVV    VVV   VVVV   B
+B  V   V  V   V  V   V  V   V  W
+W  VVVV   VVVV   VVVVV  V   V  B
+B  V   V  V   V  V   V  V   V  W
+W  VVVV   V   V  V   V  VVVV   B
+B                              W
+W                              B
+BWBWBWBWBWBWBWBWBWBWBWBWBWBWBWBW
+EndFormation
+Hold 0.5
+
+FormationTime 0
+WBWBWBWBWBWBWBWBWBWBWBWBWBWBWBWB
+B                              W
+W                              B
+B  BBBB   BBBB    BBB   BBBB   W
+W  B   B  B   B  B   B  B   B  B
+B  BBBB   BBBB   BBBBB  B   B  W
+W  B   B  B   B  B   B  B   B  B
+B  BBBB   B   B  B   B  BBBB   W
+W                              B
+B         WWWWW   WWWW         W
+W           W    W             B
+B           W     WWW          W
+W           W        W         B
+B         WWWWW  WWWW          W
+W                              B
+B  VVVV   VVVV    VVV   VVVV   W
+W  V   V  V   V  V   V  V   V  B
+B  VVVV   VVVV   VVVVV  V   V  W
+W  V   V  V   V  V   V  V   V  B
+B  VVVV   V   V  V   V  VVVV   W
+W                              B
+B                              W
+WBWBWBWBWBWBWBWBWBWBWBWBWBWBWBWB
+EndFormation
+Hold 0.5
+
+FormationTime 0
+BWBWBWBWBWBWBWBWBWBWBWBWBWBWBWBW
+W                              B
+B                              W
+W  BBBB   BBBB    BBB   BBBB   B
+B  B   B  B   B  B   B  B   B  W
+W  BBBB   BBBB   BBBBB  B   B  B
+B  B   B  B   B  B   B  B   B  W
+W  BBBB   B   B  B   B  BBBB   B
+B                              W
+W         WWWWW   WWWW         B
+B           W    W             W
+W           W     WWW          B
+B           W        W         W
+W         WWWWW  WWWW          B
+B                              W
+W  VVVV   VVVV    VVV   VVVV   B
+B  V   V  V   V  V   V  V   V  W
+W  VVVV   VVVV   VVVVV  V   V  B
+B  V   V  V   V  V   V  V   V  W
+W  VVVV   V   V  V   V  VVVV   B
+B                              W
+W                              B
+BWBWBWBWBWBWBWBWBWBWBWBWBWBWBWBW
+EndFormation
+Hold 0.5
+
+FormationTime 0
+WBWBWBWBWBWBWBWBWBWBWBWBWBWBWBWB
+B                              W
+W                              B
+B  BBBB   BBBB    BBB   BBBB   W
+W  B   B  B   B  B   B  B   B  B
+B  BBBB   BBBB   BBBBB  B   B  W
+W  B   B  B   B  B   B  B   B  B
+B  BBBB   B   B  B   B  BBBB   W
+W                              B
+B         WWWWW   WWWW         W
+W           W    W             B
+B           W     WWW          W
+W           W        W         B
+B         WWWWW  WWWW          W
+W                              B
+B  VVVV   VVVV    VVV   VVVV   W
+W  V   V  V   V  V   V  V   V  B
+B  VVVV   VVVV   VVVVV  V   V  W
+W  V   V  V   V  V   V  V   V  B
+B  VVVV   V   V  V   V  VVVV   W
+W                              B
+B                              W
+WBWBWBWBWBWBWBWBWBWBWBWBWBWBWBWB
+EndFormation
+Hold 0.5
+
+FormationTime 0
+BWBWBWBWBWBWBWBWBWBWBWBWBWBWBWBW
+W                              B
+B                              W
+W  BBBB   BBBB    BBB   BBBB   B
+B  B   B  B   B  B   B  B   B  W
+W  BBBB   BBBB   BBBBB  B   B  B
+B  B   B  B   B  B   B  B   B  W
+W  BBBB   B   B  B   B  BBBB   B
+B                              W
+W         WWWWW   WWWW         B
+B           W    W             W
+W           W     WWW          B
+B           W        W         W
+W         WWWWW  WWWW          B
+B                              W
+W  VVVV   VVVV    VVV   VVVV   B
+B  V   V  V   V  V   V  V   V  W
+W  VVVV   VVVV   VVVVV  V   V  B
+B  V   V  V   V  V   V  V   V  W
+W  VVVV   V   V  V   V  VVVV   B
+B                              W
+W                              B
+BWBWBWBWBWBWBWBWBWBWBWBWBWBWBWBW
+EndFormation
+Hold 0.5
+
+FormationTime 0
+WBWBWBWBWBWBWBWBWBWBWBWBWBWBWBWB
+B                              W
+W                              B
+B  BBBB   BBBB    BBB   BBBB   W
+W  B   B  B   B  B   B  B   B  B
+B  BBBB   BBBB   BBBBB  B   B  W
+W  B   B  B   B  B   B  B   B  B
+B  BBBB   B   B  B   B  BBBB   W
+W                              B
+B         WWWWW   WWWW         W
+W           W    W             B
+B           W     WWW          W
+W           W        W         B
+B         WWWWW  WWWW          W
+W                              B
+B  VVVV   VVVV    VVV   VVVV   W
+W  V   V  V   V  V   V  V   V  B
+B  VVVV   VVVV   VVVVV  V   V  W
+W  V   V  V   V  V   V  V   V  B
+B  VVVV   V   V  V   V  VVVV   W
+W                              B
+B                              W
+WBWBWBWBWBWBWBWBWBWBWBWBWBWBWBWB
+EndFormation
+Hold 0.5
+
+FormationTime 0
+BWBWBWBWBWBWBWBWBWBWBWBWBWBWBWBW
+W                              B
+B                              W
+W  BBBB   BBBB    BBB   BBBB   B
+B  B   B  B   B  B   B  B   B  W
+W  BBBB   BBBB   BBBBB  B   B  B
+B  B   B  B   B  B   B  B   B  W
+W  BBBB   B   B  B   B  BBBB   B
+B                              W
+W         WWWWW   WWWW         B
+B           W    W             W
+W           W     WWW          B
+B           W        W         W
+W         WWWWW  WWWW          B
+B                              W
+W  VVVV   VVVV    VVV   VVVV   B
+B  V   V  V   V  V   V  V   V  W
+W  VVVV   VVVV   VVVVV  V   V  B
+B  V   V  V   V  V   V  V   V  W
+W  VVVV   V   V  V   V  VVVV   B
+B                              W
+W                              B
+BWBWBWBWBWBWBWBWBWBWBWBWBWBWBWBW
+EndFormation
+Hold 0.5
+
+FormationTime 0
+WBWBWBWBWBWBWBWBWBWBWBWBWBWBWBWB
+B                              W
+W                              B
+B  BBBB   BBBB    BBB   BBBB   W
+W  B   B  B   B  B   B  B   B  B
+B  BBBB   BBBB   BBBBB  B   B  W
+W  B   B  B   B  B   B  B   B  B
+B  BBBB   B   B  B   B  BBBB   W
+W                              B
+B         WWWWW   WWWW         W
+W           W    W             B
+B           W     WWW          W
+W           W        W         B
+B         WWWWW  WWWW          W
+W                              B
+B  VVVV   VVVV    VVV   VVVV   W
+W  V   V  V   V  V   V  V   V  B
+B  VVVV   VVVV   VVVVV  V   V  W
+W  V   V  V   V  V   V  V   V  B
+B  VVVV   V   V  V   V  VVVV   W
+W                              B
+B                              W
+WBWBWBWBWBWBWBWBWBWBWBWBWBWBWBWB
+EndFormation
+Hold 0.5
+
+FormationTime 0
+BWBWBWBWBWBWBWBWBWBWBWBWBWBWBWBW
+W                              B
+B                              W
+W  BBBB   BBBB    BBB   BBBB   B
+B  B   B  B   B  B   B  B   B  W
+W  BBBB   BBBB   BBBBB  B   B  B
+B  B   B  B   B  B   B  B   B  W
+W  BBBB   B   B  B   B  BBBB   B
+B                              W
+W         WWWWW   WWWW         B
+B           W    W             W
+W           W     WWW          B
+B           W        W         W
+W         WWWWW  WWWW          B
+B                              W
+W  VVVV   VVVV    VVV   VVVV   B
+B  V   V  V   V  V   V  V   V  W
+W  VVVV   VVVV   VVVVV  V   V  B
+B  V   V  V   V  V   V  V   V  W
+W  VVVV   V   V  V   V  VVVV   B
+B                              W
+W                              B
+BWBWBWBWBWBWBWBWBWBWBWBWBWBWBWBW
+EndFormation
+Hold 0.5
+
+FormationTime 0
+WBWBWBWBWBWBWBWBWBWBWBWBWBWBWBWB
+B                              W
+W                              B
+B  BBBB   BBBB    BBB   BBBB   W
+W  B   B  B   B  B   B  B   B  B
+B  BBBB   BBBB   BBBBB  B   B  W
+W  B   B  B   B  B   B  B   B  B
+B  BBBB   B   B  B   B  BBBB   W
+W                              B
+B         WWWWW   WWWW         W
+W           W    W             B
+B           W     WWW          W
+W           W        W         B
+B         WWWWW  WWWW          W
+W                              B
+B  VVVV   VVVV    VVV   VVVV   W
+W  V   V  V   V  V   V  V   V  B
+B  VVVV   VVVV   VVVVV  V   V  W
+W  V   V  V   V  V   V  V   V  B
+B  VVVV   V   V  V   V  VVVV   W
+W                              B
+B                              W
+WBWBWBWBWBWBWBWBWBWBWBWBWBWBWBWB
+EndFormation
+Hold 0.5
+
+FormationTime 0
+BWBWBWBWBWBWBWBWBWBWBWBWBWBWBWBW
+W                              B
+B                              W
+W  BBBB   BBBB    BBB   BBBB   B
+B  B   B  B   B  B   B  B   B  W
+W  BBBB   BBBB   BBBBB  B   B  B
+B  B   B  B   B  B   B  B   B  W
+W  BBBB   B   B  B   B  BBBB   B
+B                              W
+W         WWWWW   WWWW         B
+B           W    W             W
+W           W     WWW          B
+B           W        W         W
+W         WWWWW  WWWW          B
+B                              W
+W  VVVV   VVVV    VVV   VVVV   B
+B  V   V  V   V  V   V  V   V  W
+W  VVVV   VVVV   VVVVV  V   V  B
+B  V   V  V   V  V   V  V   V  W
+W  VVVV   V   V  V   V  VVVV   B
+B                              W
+W                              B
+BWBWBWBWBWBWBWBWBWBWBWBWBWBWBWBW
+EndFormation
+Hold 0.5
+
+FormationTime 0
+WBWBWBWBWBWBWBWBWBWBWBWBWBWBWBWB
+B                              W
+W                              B
+B  BBBB   BBBB    BBB   BBBB   W
+W  B   B  B   B  B   B  B   B  B
+B  BBBB   BBBB   BBBBB  B   B  W
+W  B   B  B   B  B   B  B   B  B
+B  BBBB   B   B  B   B  BBBB   W
+W                              B
+B         WWWWW   WWWW         W
+W           W    W             B
+B           W     WWW          W
+W           W        W         B
+B         WWWWW  WWWW          W
+W                              B
+B  VVVV   VVVV    VVV   VVVV   W
+W  V   V  V   V  V   V  V   V  B
+B  VVVV   VVVV   VVVVV  V   V  W
+W  V   V  V   V  V   V  V   V  B
+B  VVVV   V   V  V   V  VVVV   W
+W                              B
+B                              W
+WBWBWBWBWBWBWBWBWBWBWBWBWBWBWBWB
+EndFormation
+Hold 0.5
+
+FormationTime 0
+BWBWBWBWBWBWBWBWBWBWBWBWBWBWBWBW
+W                              B
+B                              W
+W  BBBB   BBBB    BBB   BBBB   B
+B  B   B  B   B  B   B  B   B  W
+W  BBBB   BBBB   BBBBB  B   B  B
+B  B   B  B   B  B   B  B   B  W
+W  BBBB   B   B  B   B  BBBB   B
+B                              W
+W         WWWWW   WWWW         B
+B           W    W             W
+W           W     WWW          B
+B           W        W         W
+W         WWWWW  WWWW          B
+B                              W
+W  VVVV   VVVV    VVV   VVVV   B
+B  V   V  V   V  V   V  V   V  W
+W  VVVV   VVVV   VVVVV  V   V  B
+B  V   V  V   V  V   V  V   V  W
+W  VVVV   V   V  V   V  VVVV   B
+B                              W
+W                              B
+BWBWBWBWBWBWBWBWBWBWBWBWBWBWBWBW
+EndFormation
+Hold 0.5
+
+FormationTime 0
+WBWBWBWBWBWBWBWBWBWBWBWBWBWBWBWB
+B                              W
+W                              B
+B  BBBB   BBBB    BBB   BBBB   W
+W  B   B  B   B  B   B  B   B  B
+B  BBBB   BBBB   BBBBB  B   B  W
+W  B   B  B   B  B   B  B   B  B
+B  BBBB   B   B  B   B  BBBB   W
+W                              B
+B         WWWWW   WWWW         W
+W           W    W             B
+B           W     WWW          W
+W           W        W         B
+B         WWWWW  WWWW          W
+W                              B
+B  VVVV   VVVV    VVV   VVVV   W
+W  V   V  V   V  V   V  V   V  B
+B  VVVV   VVVV   VVVVV  V   V  W
+W  V   V  V   V  V   V  V   V  B
+B  VVVV   V   V  V   V  VVVV   W
+W                              B
+B                              W
+WBWBWBWBWBWBWBWBWBWBWBWBWBWBWBWB
+EndFormation
+Hold 0.5
+
+FormationTime 0
+BWBWBWBWBWBWBWBWBWBWBWBWBWBWBWBW
+W                              B
+B                              W
+W  BBBB   BBBB    BBB   BBBB   B
+B  B   B  B   B  B   B  B   B  W
+W  BBBB   BBBB   BBBBB  B   B  B
+B  B   B  B   B  B   B  B   B  W
+W  BBBB   B   B  B   B  BBBB   B
+B                              W
+W         WWWWW   WWWW         B
+B           W    W             W
+W           W     WWW          B
+B           W        W         W
+W         WWWWW  WWWW          B
+B                              W
+W  VVVV   VVVV    VVV   VVVV   B
+B  V   V  V   V  V   V  V   V  W
+W  VVVV   VVVV   VVVVV  V   V  B
+B  V   V  V   V  V   V  V   V  W
+W  VVVV   V   V  V   V  VVVV   B
+B                              W
+W                              B
+BWBWBWBWBWBWBWBWBWBWBWBWBWBWBWBW
+EndFormation
+Hold 0.5
+
+FormationTime 0
+WBWBWBWBWBWBWBWBWBWBWBWBWBWBWBWB
+B                              W
+W                              B
+B  BBBB   BBBB    BBB   BBBB   W
+W  B   B  B   B  B   B  B   B  B
+B  BBBB   BBBB   BBBBB  B   B  W
+W  B   B  B   B  B   B  B   B  B
+B  BBBB   B   B  B   B  BBBB   W
+W                              B
+B         WWWWW   WWWW         W
+W           W    W             B
+B           W     WWW          W
+W           W        W         B
+B         WWWWW  WWWW          W
+W                              B
+B  VVVV   VVVV    VVV   VVVV   W
+W  V   V  V   V  V   V  V   V  B
+B  VVVV   VVVV   VVVVV  V   V  W
+W  V   V  V   V  V   V  V   V  B
+B  VVVV   V   V  V   V  VVVV   W
+W                              B
+B                              W
+WBWBWBWBWBWBWBWBWBWBWBWBWBWBWBWB
+EndFormation
+Hold 0.5
+
+FormationTime 0
+BWBWBWBWBWBWBWBWBWBWBWBWBWBWBWBW
+W                              B
+B                              W
+W  BBBB   BBBB    BBB   BBBB   B
+B  B   B  B   B  B   B  B   B  W
+W  BBBB   BBBB   BBBBB  B   B  B
+B  B   B  B   B  B   B  B   B  W
+W  BBBB   B   B  B   B  BBBB   B
+B                              W
+W         WWWWW   WWWW         B
+B           W    W             W
+W           W     WWW          B
+B           W        W         W
+W         WWWWW  WWWW          B
+B                              W
+W  VVVV   VVVV    VVV   VVVV   B
+B  V   V  V   V  V   V  V   V  W
+W  VVVV   VVVV   VVVVV  V   V  B
+B  V   V  V   V  V   V  V   V  W
+W  VVVV   V   V  V   V  VVVV   B
+B                              W
+W                              B
+BWBWBWBWBWBWBWBWBWBWBWBWBWBWBWBW
+EndFormation
+Hold 0.5
